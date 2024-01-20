@@ -1,0 +1,149 @@
+[11-May-2020 01:55:13 Etc/GMT] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/mappi5pk/public_html/gaadiwalaonline.com/management/conn.php on line 2
+[14-Aug-2020 08:11:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/dashboard.php on line 177
+[14-Aug-2020 08:11:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/dashboard.php on line 212
+[14-Aug-2020 08:11:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/dashboard.php on line 249
+[14-Aug-2020 08:11:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/dashboard.php on line 274
+[14-Aug-2020 08:11:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/dashboard.php on line 419
+[14-Aug-2020 08:12:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/active_v.php on line 174
+[14-Aug-2020 08:12:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/active_v.php on line 207
+[14-Aug-2020 08:12:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/active_v.php on line 242
+[14-Aug-2020 08:12:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/active_v.php on line 266
+[14-Aug-2020 08:12:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/active_v.php on line 398
+[14-Aug-2020 08:12:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home3/gaadixug/public_html/management/active_v.php on line 437
+[14-Aug-2020 08:12:19 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/gaadixug/public_html/management/active_v.php on line 441
+[21-Aug-2022 13:10:35 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/gaadixug/public_html/management/active_v.php on line 441
+[21-Aug-2022 13:10:39 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/gaadixug/public_html/management/expiring_v.php on line 431
+[21-Aug-2022 13:10:43 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/gaadixug/public_html/management/expired_v.php on line 431
+[21-Aug-2022 13:10:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home3/gaadixug/public_html/management/all_v.php on line 401
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:53:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:17 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/management/all_v.php on line 401
+[20-Aug-2023 12:54:17 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/gaadixug/vahanfin.com/application/management/all_v.php on line 401
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:54:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[20-Aug-2023 12:57:40 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/management/expiring_v.php on line 431
+[20-Aug-2023 12:57:40 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/gaadixug/vahanfin.com/application/management/expiring_v.php on line 431
+[20-Aug-2023 12:57:42 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/management/expiring_v.php on line 431
+[20-Aug-2023 12:57:42 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/gaadixug/vahanfin.com/application/management/expiring_v.php on line 431
+[20-Aug-2023 12:57:43 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/management/active_v.php on line 441
+[20-Aug-2023 12:57:43 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/gaadixug/vahanfin.com/application/management/active_v.php on line 441
+[20-Aug-2023 12:57:47 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/management/expired_v.php on line 431
+[20-Aug-2023 12:57:47 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/gaadixug/vahanfin.com/application/management/expired_v.php on line 431
+[20-Aug-2023 12:57:49 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/management/all_v.php on line 401
+[20-Aug-2023 12:57:49 America/Chicago] PHP Warning:  foreach() argument must be of type array|object, null given in /home3/gaadixug/vahanfin.com/application/management/all_v.php on line 401
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:55:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:56:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Undefined variable $top_user in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416
+[04-Sep-2023 14:57:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/management/dashboard.php on line 416

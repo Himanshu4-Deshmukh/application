@@ -1,0 +1,917 @@
+
+<!DOCTYPE html><!--[if lt IE 10]> <html  lang="en" class="iex"> <![endif]-->
+<!--[if (gt IE 10)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<head>
+<style>
+		iframe {
+			width: 100%;
+			height: 600px;
+		}
+	</style>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    		<title>Vehicle Fitness Certificate: Check Your Status Online | https://www.gaadiwalaonline.com</title>
+		<meta name="description" content="Gaadiwalaonline.com is a service platform catering to all your RTO based services and products at an affordable cost in a professional way. Established in 2005, the company has over 500 clients at present. We have our head office in Mumbai with operations all over India. At present, we have over 50 automobile brands and 250+ automobile dealers registered with us."/>
+		<meta name="keywords" content="rto Services, online RTO Services,rto service in hyderabad,rto service in banglore,rto service banglore,rto service in delhi,rto service in noida,rto service in gurgaon,rto service chennai,rto service mumbai,rto service in faridabad,rto service injamshedpur,rto service in ranchi,rto service in patna,rto service in ahmedabad,rto service in jaipur,rto service in kanpur,rto service in lucknow"/>
+		
+	    <meta property="og:title" content="RTO based products and services at an affordable cost in a professional way" />
+	    
+	    <meta property="og:url" content="https://www.gaadiwalaonline.com" />
+	    <meta property="og:type" content="website" />
+	    <meta property="og:description" content="Gaadiwalaonline.com is a service platform catering to all your RTO based services and products at an affordable cost in a professional way. Established in 2005, the company has over 500 clients at present. We have our head office in Mumbai with operations all over India. At present, we have over 50 automobile brands and 250+ automobile dealers registered with us." />
+	    <meta property="og:image" content="https://www.gaadiwalaonline.com/images/poster.png" />
+	    <meta property="twitter:title" content="RTO based products and services at an affordable cost in a professional way" />
+	    <meta property="twitter:url" content="index.php" />
+	    <meta property="twitter:type" content="website" />
+	    <meta property="twitter:description" content="Gaadiwalaonline.com is a service platform catering to all your RTO based services and products at an affordable cost in a professional way. Established in 2005, the company has over 500 clients at present. We have our head office in Mumbai with operations all over India. At present, we have over 50 automobile brands and 250+ automobile dealers registered with us." />
+	    <meta property="twitter:image" content="" />
+	<link rel="canonical" href="https://www.gaadiwalaonline.com/">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.gaadiwalaonline.com/images/logo1.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.gaadiwalaonline.com/images/logo1.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.gaadiwalaonline.com/images/logo1.png">
+<!--<link rel="manifest" href="https://d14shz2u67ig8m.cloudfront.net/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="https://d14shz2u67ig8m.cloudfront.net/images/favicon/safari-pinned-tab.svg" color="#5bbad5">-->
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+	<script type="application/ld+json">
+ { "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Gaadiwalaonline",
+ "url": "https://www.gaadiwalaonline.com/",
+ "logo": "https://www.gaadiwalaonline.com/images/logo1.png",
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "Nabibux House, 3rd Floor,Above Citizen
+Credit Co-Op Bank,
+Vakola Bridge
+Road, Santacruz (E),Mumbai
+400 055",
+ "addressLocality": "Mumbai",
+ "addressRegion": "Maharashtra",
+ "postalCode": "400 055",
+ "addressCountry": "India"
+ },
+ "sameAs": [ 
+ "https://www.facebook.com/Gaadiwalaonlinecom-100269678138857",
+ "https://www.instagram.com/gaadiwalaonline_india/?igshid=1r3bvki9hp6c1"
+ ]}
+</script>
+
+   
+	    <link rel="stylesheet" href="support1/HTWF/scripts/bootstrap/css/bootstrap.css">
+    <link rel="stylesheet" href="support1/HTWF/style.css">
+    <link rel="stylesheet" href="support1/HTWF/css/animations.css">
+    <link rel="stylesheet" href="support1/HTWF/scripts/flexslider/flexslider.css">
+    <link rel="stylesheet" href="support1/HTWF/scripts/magnific-popup.css">
+    <!--<link rel="stylesheet" href="support1/css/skin83f1.css?up=8">-->
+    <link rel="stylesheet" href="support1/HTWF/css/content-box.css">
+    <link rel="stylesheet" href="support1/HTWF/css/image-box.css">
+    <link rel="stylesheet" href="support1/HTWF/css/components.css">
+    <link rel="stylesheet" href="support1/HTWF/scripts/php/contact-form.css">
+    <link rel="stylesheet" href="support1/HTWF/scripts/social.stream.css">
+    <link rel="stylesheet" href="support1/css/skin.css">
+    
+
+<!-- add cdn update -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+
+    <script src="support1/HTWF/scripts/jquery.min.js" defer="defer"></script>
+    <script defer="defer" src="support1/HTWF/scripts/script.js"></script>
+</head>
+
+<body>
+     <style type="text/css">
+     .sanitize{
+      background: #ff0068;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 11px;
+    line-height: 1;
+    letter-spacing: 0.01em;
+    padding: 4px 10px;
+    position: absolute;
+    right: 19px;
+    top: 1px;
+    text-transform: uppercase;
+    }
+            /*@import url(http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900);*/
+            /*@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);*/
+            @font-face {
+              font-family: "Roboto Condensed";
+              font-style: normal;
+              font-weight: 300;
+              src: local("Roboto Condensed Light"), local("RobotoCondensed-Light"), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCkYb8td.woff2) format("woff2");
+              unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+            }
+            /* cyrillic */
+            @font-face {
+              font-family: "Roboto Condensed";
+              font-style: normal;
+              font-weight: 300;
+              src: local("Roboto Condensed Light"), local("RobotoCondensed-Light"), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCAYb8td.woff2) format("woff2");
+              unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+            }
+            /* greek-ext */
+            @font-face {
+              font-family: "Roboto Condensed";
+              font-style: normal;
+              font-weight: 300;
+              src: local("Roboto Condensed Light"), local("RobotoCondensed-Light"), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCgYb8td.woff2) format("woff2");
+              unicode-range: U+1F00-1FFF;
+            }
+            /* greek */
+            @font-face {
+              font-family: "Roboto Condensed";
+              font-style: normal;
+              font-weight: 300;
+              src: local("Roboto Condensed Light"), local("RobotoCondensed-Light"), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCcYb8td.woff2) format("woff2");
+              unicode-range: U+0370-03FF;
+            }
+            /* vietnamese */
+            @font-face {
+              font-family: "Roboto Condensed";
+              font-style: normal;
+              font-weight: 300;
+              src: local("Roboto Condensed Light"), local("RobotoCondensed-Light"), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCsYb8td.woff2) format("woff2");
+              unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+            }
+            /* latin-ext */
+            @font-face {
+              font-family: "Roboto Condensed";
+              font-style: normal;
+              font-weight: 300;
+              src: local("Roboto Condensed Light"), local("RobotoCondensed-Light"), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCoYb8td.woff2) format("woff2");
+              unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+            }
+            /* latin */
+            @font-face {
+              font-family: "Roboto Condensed";
+              font-style: normal;
+              font-weight: 300;
+              src: local("Roboto Condensed Light"), local("RobotoCondensed-Light"), url(https://fonts.gstatic.com/s/robotocondensed/v18/ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYbw.woff2) format("woff2");
+              unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+            }
+
+
+
+            .roboto {
+            font-family: "Roboto Condensed";
+            }
+            .roboto-c {
+            font-family: "Roboto Condensed";
+            }
+
+          </style>
+
+          <style type="text/css">
+  /*// applyform*/
+  #form1, #form2{
+    display: none;
+  }
+
+  .applyform{
+        width: 950px;
+        position: absolute;
+        z-index: 9998;
+        top: 0;
+        right: 0;
+    }
+    #apply_form{
+        display: none;
+    }
+    #log4{
+        background-color: rgba(14,26,53,1) !important;
+        padding: 30px;
+    }
+    @media screen and (max-width: 600px) {
+  .applyform {
+    width: 400px;
+    }
+  }
+
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  .applyform {
+    width: 700px;
+  }
+}
+ 
+ @media screen and (min-width: 920px) {
+  #log4 {
+    height: 500px;
+    overflow-y: scroll;
+  }
+}
+</style>
+
+
+<style type="text/css">
+    h3,h1,h2,h4 {
+            font-family: "Roboto Condensed";
+            font-weight: 100;
+            }
+    p, label, button, {
+        font-family: "Roboto Condensed";
+        font-weight: 300;
+            }
+    .log1{
+        background-color: rgba(14,26,53,1) !important;
+        padding: 30px;
+    }
+    #log2{
+    <!-- font-family: "Lucida Sans Unicode"; -->
+        font-family: "Roboto Condensed";
+        font-weight: 200
+    height: 78px;
+    color: white;
+    background-color: rgba(14,26,53,1) !important;
+    border-color: white;
+    text-align: left;
+    margin-bottom: 0px;
+    padding: 20px 50px;
+    }
+
+    #log3{
+        color: white;
+        margin-bottom: 13px;
+        <!-- font-family: "Lucida Sans Unicode"; -->
+        font-family: "Roboto Condensed";
+        font-weight: 300
+    }
+
+    .loginform{
+        width: 320px;
+        position: absolute;
+        z-index: 9998;
+        top: 0;
+        right: 0;
+    }
+
+    .form-control{
+         background-color: #153753;
+         border: 1px solid #1a4d78;
+        height: 46px;
+        width: 100%;
+        padding: 1px 6px;
+        border-radius: none;
+       font-family: "efraBold";
+        color: #818384;
+    }
+
+    .form-group{
+        margin: 5px;
+    }
+
+    form input{
+        background-color: #153753;
+        color: #bad5df;
+        font-family: "Roboto Condensed";
+        font-weight: 300;
+
+    }
+
+    form label{
+   /* font-family: "Lucida Sans Unicode";*/
+   font-family: "Roboto Condensed";
+   font-weight: 300;
+    }
+
+    form div{
+        margin-bottom: 15px;
+    }
+    #login_form
+    {
+        display: none;
+    }
+    #signup_form{
+        display: none;
+    }
+</style>
+<script type="text/javascript">
+  // apply online form
+    $(function () {
+        $("#apply").change(function () {
+            var selectedText = $(this).find("option:selected").text();
+            var selectedValue = $(this).val();
+            // alert("Selected Text: " + selectedText + " Value: " + selectedValue);
+            if(selectedValue == "Fitness"){
+              document.getElementById("form1").style.display = "block";
+              document.getElementById("form2").style.display = "none";
+            }
+            // else if(selectedValue == "Petmit"){
+            //  document.getElementById("form2").style.display = "block";
+            // }
+            else{
+              document.getElementById("form2").style.display = "block";
+              document.getElementById("form1").style.display = "none";
+
+            }
+        });
+    });
+</script>
+<script type="text/javascript">
+        // apply online form
+    function applyForm()
+        {
+             if ($("#apply_form").is(":hidden")){
+                      $("#apply_form").slideDown("slow");
+                      document.getElementById("anchor2").style.display="none";
+            }
+            else{
+                $("#apply_form").slideUp("fast");
+                document.getElementById("anchor2").style.display="block";
+            }
+        }
+
+    // login form
+    function openForm()
+        {
+             if ($("#login_form").is(":hidden")){
+                      $("#login_form").slideDown("slow");
+                      document.getElementById("anchor").style.display="none";
+            }
+            else{
+                $("#login_form").slideUp("fast");
+                document.getElementById("anchor").style.display="block";
+            }
+        }
+
+        // signup form
+    function signupForm()
+        {
+             if ($("#signup_form").is(":hidden")){
+                      $("#signup_form").slideDown("slow");
+                      document.getElementById("anchor1").style.display="none";
+            }
+            else{
+                $("#signup_form").slideUp("fast");
+                document.getElementById("anchor1").style.display="block";
+            }
+        }
+</script>
+
+	<!-- Menu -->
+    <!--
+<header class="fixed-top scroll-change" data-menu-anima="fade-bottom">-->
+<header class="fixed-top scroll-change bg-transparent menu-transparent" data-menu-anima="fade-bottom">
+<div class="navbar navbar-default mega-menu-fullwidth navbar-fixed-top" role="navigation">
+      
+      <div class="navbar navbar-main">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" href="index.php">
+                        <img id="logo1" style="height: 45px;" class="logo-default" src="www.gaadiwalaonline.com/images/logo1.png" alt="logo" />
+                        <img id="logo" style="height: 90px; width: 115px; max-height: 90px; max-width: 115px" class="logo-retina" src="www.gaadiwalaonline.com/images/logo.png" alt="logo" />
+                        </a>
+                        <style type="text/css">
+                           @media only screen and (max-width: 900px) {
+                           #logo,#logo1 {
+                           max-width: 50px !important;
+                           max-height: 50px !important;
+                           /*width: 50px !important;*/
+                           }
+                           }
+                        </style>
+                    </div>
+                    <div class="collapse navbar-collapse">
+                      
+                      
+                      
+                      
+                        <div class="nav navbar-nav navbar-right">
+                            <ul class="nav navbar-nav">
+                                <li class="dropdown ">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Discover Gaadiwalaonline 
+                                       <span class="caret"></span></a>
+                                        <ul class="dropdown-menu multi-level">
+                                        <li><a class=dropdown-item href="about.php">About Us </a></li>
+                                        <li><a class=dropdown-item href="https://gaadiwalaonline.com/career.php" target="myFrame">Careers  </a></li>
+                                        <li><a  class=dropdown-item href="legal.php">Legal and Admin Policies</a></li>
+                                        </ul>
+                                </li>
+                                <li class="dropdown ">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Products                            <span class="caret"></span></a>
+                                        <ul class="dropdown-menu multi-level">
+                                        <li><a class=dropdown-item href="moter.php">Motor Insurance</a></li>
+                                        <li><a class=dropdown-item href="speedlimit.php">Speed Limit Device</a></li>
+                                        <li><a class=dropdown-item href="fastage.php">Fastag</a></li>
+                                        <li><a class=dropdown-item href="gpstracker.php">Gps tracker</a></li>
+                                         <li><a class=dropdown-item href="reflective.php">Reflective tape</a></li>
+                                         <li><a class=dropdown-item href="about-hsrp.php">HSRP </a></li>
+                                        </ul>
+                                </li>
+                                <li class="dropdown ">
+                                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">Services                           <span class="caret"></span></a>
+                                    <ul class="dropdown-menu multi-level">
+                                    <li><a class=dropdown-item href="vehicle_reg.php">Vehicle Registration </a></li> 
+                                    <li><a class=dropdown-item href="vehicle_fit.php">Vehicle Fitness </a></li>
+                                    <li><a class=dropdown-item href="vehicle_permit.php">Vehicle Permit</a></li>
+                                    <li><a class=dropdown-item href="road_tax.php">Road Tax</a></li>
+                                    <li><a class=dropdown-item href="hypothecation.php">Hypothecation</a></li>
+                                    <li><a class=dropdown-item href="certification.php">No Objection Certificate </a></li>
+                                    </ul>
+                            <li class="dropdown ">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Solution                           <span class="caret"></span></a>
+                            <ul class="dropdown-menu multi-level">
+                                    <li><a class=dropdown-item href="auto.php">Automobile Dealer </a></li> 
+                                    <li><a class=dropdown-item href="fo.php">Fleet Owner </a></li>
+                            </ul>  <li class="dropdown ">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Vehicle Information                        <span class="caret"></span></a>
+                            <ul class="dropdown-menu multi-level">
+                                    <li><a class=dropdown-item href="rc.php">Vehicle RC Details </a></li> 
+                                    <li><a class=dropdown-item href="tc.php"> Traffic E Challan Details</a></li>
+                                       <li><a class=dropdown-item href="bvd.php">  Blacklist Vehicle Details</a></li>
+                                          <li><a class=dropdown-item href="pucs.php"> PUC Status</a></li>
+                                             <li><a class=dropdown-item href="vfc.php">  Vehicle Fitness Certificate</a></li>
+                                                <li><a class=dropdown-item href="vnp.php"> Vehicle National Permit</a></li>
+                                                   <li><a class=dropdown-item href="rtoo.php">  RTO Offices</a></li>
+                            </ul> <li>
+                            <li class=nav-item><a href="contactus.php">Contact Us</a></li>
+           <li class=nav-item>
+            <a id="anchor" href="#" onClick="openForm()"><i class="fa fa-sign-in"></i> Login</a>
+            <!-- login form -->
+            <div id="login_form" class="loginform">
+                <p id="log2"  style=" font-weight:300; font-family: Roboto Condensed;">
+                    <i class="fa fa-sign-in" style="margin-right: 2%; color:#cb3333"></i> Login
+                    <a href="#" onClick="openForm()" style="float: right; color: #cb3333;">
+                            <i class="fa fa-times" style="color:#cb3333;"></i>
+                    </a>
+                </p>
+            <form action="loginvalidate.php" method="post" class="log1" style="height:450px">
+                <div class="form-group">
+                  <label for="email" id="log3">User name</label>
+                  <input type="email" class="form-control" id="uname" name="uname">
+                </div>
+                <div class="form-group">
+                  <label for="pwd" id="log3">Password</label>
+                  <input type="password" class="form-control" id="pwd" name="pwd">
+                </div>
+                <div class="form-group form-check">
+                  <label class="form-check-label" id="log3">
+                    <input class="form-check-input" type="checkbox" name="remember"> Remember me
+                  </label>
+                </div>
+                <div class="form-group">
+                 <center><button type="submit" name="Submit" class="circle-btn btn btn-danger btn-sm" style="border-radius:25px; font-weight:200; font-size:18px; font-family: Roboto Condensed;"><i class="fa fa-lock" style="color:#cb3333;"></i> Login</button></center>
+                </div>  <center> <p style=" color: #fff;  font-weight:300; font-family: Roboto Condensed;">Or connect with</p></center>
+              <div>
+                  <div class="col-sm-12">
+                    <div style="width:100%; padding:5px; margin:5px; text-align:center; background-color:white; border-radius:5px"><a  class="login100-social-item" href="https://accounts.google.com/o/oauth2/auth?response_type=code&amp;redirect_uri=https%3A%2F%2Fgaadiwalaonline.com%2Fdashboard%2Fgwonline%2Fglog%2Fauthenticate.php&amp;client_id=1004547888692-48hh4070n7ju62l3p3ebur0htijl1iou.apps.googleusercontent.com&amp;scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email&amp;access_type=offline&amp;approval_prompt=force">Google</a>
+                      </div>
+                  </div>
+                  
+                  <div class="col-sm-12">
+                    <div style="width:100%; padding:5px; margin:5px; text-align:center; background-color:white; border-radius:5px"><a  class="login100-social-item" href="https://www.facebook.com/v2.10/dialog/oauth?client_id=393710094500677&amp;state=d23dd2d7162ebd9f2c0a5da3fe2e5713&amp;response_type=code&amp;sdk=php-sdk-5.6.2&amp;redirect_uri=https%3A%2F%2Fgaadiwalaonline.com%2Fdashboard%2Fgwonline%2Ffblog%2Fauthenticate.php&amp;scope=email">Facebook</a>
+                    </div>
+                  </div>
+              </div>
+              </form>
+              </div>
+              <!-- //login form -->
+                    </li>
+
+                      <ul class="nav navbar-nav">
+                       <li class=nav-item>
+                       <a href="index.php"><i class="fa fa-home"></i></a>
+                       </ul>
+                </div>
+            </div>
+        </div>
+      </div>
+</div>
+</header>
+
+      <div class="section-bg-video">
+        <div class="videobox">
+                <video autoplay x-webkit-airplay="deny" playsinline loop muted poster="https://www.impactbnd.com/hubfs/blog-image-uploads/best-about-us-pages.jpg">
+                <source src="go.mp4" type="video/mp4">
+            </video>
+        </div>
+  <div style="background-color:rgba(0,0,0,0.2)" class="overlay-content">
+        <div class="container content  box-middle white text-center">
+            
+            </div>
+          
+    <hr class="space" />
+        </div>
+  </div>
+  
+  
+    </div>
+  
+  <div class="section-bg-image bg-top video-overlay counter-home-page" style="background-image:url(../images/bg-15.png)">
+      <div class="container content">
+        <div class="row margin-negative-130">
+          <div class="col-md-10 col-center text-left">
+            <hr class="space"/>
+  <hr class="space"/>   
+           
+            <h4>Vehicle Fitness Certificate: Check Your Status Online</h4><br>
+ In order to ensure that vehicles that ply on the roads in India are functioning under optimum conditions, the Ministry of Road Transport and Highways (MoRTH) has laid down rules that mandate vehicle owners to have certain certifications for their vehicle, related to its health and functioning. One such very important certificate is the Vehicle Fitness Certificate. As per the Motor Vehicles Act, 1989, the registration of a vehicle is considered valid only if the vehicle has a valid Vehicle Fitness Certificate to its name. A certificate of fitness for vehicles is a government issued document that officiates that the vehicle is fit to be driven on the roads in terms of the vehicle’s overall health. As per the law, it is mandatory to have a fitness certificate for commercial vehicles as well as private vehicles. Know all about two wheeler fitness certificate, four wheeler fitness certificate, procedure of renewal of fitness certificate and the fines if you fail to have a valid fitness certificate.      </div>
+      </div>
+    </div>
+
+  <div class="section-bg-image bg-top" style="background-image:url(https://d14shz2u67ig8m.cloudfront.net/images/long-2.jpg)">
+        
+
+   
+   
+    </div> 
+    <div class="main-container faqs_container">
+      <div class="container challan-wrapper">
+        <div class="clearfix mb30 f16">
+                  <div class="col-md-12">
+                     <h4 class="f24 fw6">How to Get a Vehicle Fitness Certificate?</h4>
+                     <p>In order to get a vehicle fitness certificate for your vehicle, the government of India has made the process simple with the launch of its Parivahan Sewa online portal. You can apply for the same online by filling up the vehicle fitness certificate form, and then visiting your zonal Regional Transport Office (RTO) to provide the remaining documents. You can apply for a vehicle fitness certificate online by following the steps below:
+      </p>
+      <ul>
+        <li><strong>Step 1:</strong> Log on to the Parivahan Sewa portal</li>
+        <li><strong>Step 2:</strong> Enter your vehicle’s registration number</li>
+        <li><strong>Step 3:</strong> Click ‘Proceed’ on the pop-up box</li>
+        <li><strong>Step 4:</strong> Go to Online Services on the menu bar</li>
+        <li><strong>Step 5:</strong> From the drop down menu, select ‘Application for Fitness Certificate’</li>
+        <li><strong>Step 6:</strong> You will then be prompted to fill in your Chassis number and your registered mobile number, after which click on ‘Generate OTP’</li>
+        <li><strong>Step 7:</strong> After entering the OTP received, fill out all the required vehicle information and insurance details, along with the fee information for the application</li>
+        <li><strong>Step 8:</strong> Click on the ‘Payment’ button to make the required payment online</li>
+      </ul>
+      <p>
+After your payment is successfully completed, you will receive a digital receipt along with the application letter. Post completion of the above mentioned steps, you need to visit the zonal RTO to obtain your online vehicle fitness certificate. At the RTO, you need to produce the fee receipt and the application letter at the fitness counter, along with the following documents:
+      </p>
+      <ul>
+        <li>Original registration certificate of the vehicle</li>
+        <li>Vehicle’s insurance certificate</li>
+        <li>Pollution Under Control (PUC) certificate of the vehicle</li>
+      </ul>
+                  </div>
+               </div>
+            <div class="col-md-12 mb30 f16">
+               <h4 class="f24 fw6">How to Check the Fitness Certificate of Your Vehicle Online?</h4>
+               <p>The Ministry of Road Transport and Highways curated the Parivahan Sewa portal to digitise the entire ecosystem of transportation and information in the country. From checking your vehicle fitness certificate validity, to guiding you through how to download fitness certificate of vehicle online, to checking your car fitness certificate, or vehicle fitness certificate for CVs, the portal offers all the information with a few clicks. To check the fitness certificate of your vehicle online, you need to visit the Parivahan Sewa portal, enter your vehicle’s registration number, full chassis number and engine number, after which you can see all the vehicle details, including its fitness certificate.</p>
+               <div class="col-md-12 pl0">
+                 <h4 class="f24 fw6">List of Documents Required for Vehicle Fitness Certificate</h4>
+                 <p>To apply for a RTO fitness certificate online, you need to have the following documents in place:</p>
+                 <ul>
+                    <li>Form 20</li>
+                    <li>Form 21</li>
+                    <li>Form 22</li>
+                    <li>Receipt of road tax paid</li>
+                    <li>Original registration certificate of the vehicle</li>
+                    <li>Valid insurance certificate</li>
+                    <li>Valid Pollution Under Control (PUC) certificate</li>
+                    <li>Certificate of permit</li>
+                    <li>A pencil imprint of the motor vehicle chassis</li>
+                    <li>Valid address proof</li>
+                    <li>Valid identification proof</li>
+                    <li>Passport sized photographs</li>
+                    <li>Temporary registration, if any</li>
+                 </ul>
+                  <p>
+                  After submitting the above documents, your vehicle will receive a fitness certificate RTO provides. Your vehicle will be reviewed by a Motor Vehicle Examiner during its first registration.
+                  </p>
+                </div>
+            </div>
+            <div class="col-md-12 mb30 f16">
+              <h4 class="f24 fw6">How to Renew Fitness Certificate of a Vehicle</h4>
+              <p>As per the guidelines, different classes of vehicles have a different validity for their vehicle fitness certificate. So according to that, their eligibility to apply for a fitness certificate RTO also differs. For instance, private vehicles have a vehicle fitness certificate validity for up to 15 years, post which it is valid for every 5 years after renewal. In case of commercial vehicles, the validity of the vehicle fitness certificate is for 2 years, and is then renewed for a year’s time.</p>
+              <p>The documents required for fitness certificate renewal are:</p>
+              <ul>
+                <li>Form 25</li>
+                <li>Registration certificate of the vehicle</li>
+                <li>Proof of road tax duly paid</li>
+              </ul>
+              <p>The procedure of renewal of fitness certificate is very simple. On taking your vehicle, and the documents mentioned above, to the concerned RTO, it will be subject to an inspection by the Motor Vehicles Department. After the inspection, the details will be submitted on the Vahan website. After reviewing the vehicle details, and the application fee, the RTO officer will issue a renewed vehicle fitness certificate to you.</p>
+            </div>
+
+            <div class="col-md-12 mb30 f16">
+              <h4 class="f24 fw6">RTO Fines for Not Having a Valid Fitness Certificate</h4>
+              <p>Just as not having a valid registration certificate, PUC certificate, or other vehicle documents can have you paying a hefty penalty, not having a valid fitness certificate can also have you looking at heavy fines. According to the Motor Vehicle Act, 1989, failure to produce a fitness certificate levies a fine of Rs. 100/- for the first offence. The amount increases to Rs. 300/- for the subsequent offences. The fine for not having a valid vehicle fitness certificate ranges between Rs. 2,000/- and Rs. 5,000/-.</p>
+              <p>The documents required for fitness certificate renewal are:</p>
+              <ul>
+                <li>Form 25</li>
+                <li>Registration certificate of the vehicle</li>
+                <li>Proof of road tax duly paid</li>
+              </ul>
+              <p>The procedure of renewal of fitness certificate is very simple. On taking your vehicle, and the documents mentioned above, to the concerned RTO, it will be subject to an inspection by the Motor Vehicles Department. After the inspection, the details will be submitted on the Vahan website. After reviewing the vehicle details, and the application fee, the RTO officer will issue a renewed vehicle fitness certificate to you.</p>
+            </div>
+
+            <section>
+        <div class="container">
+        
+        <div class="row mb80 xsmb40">
+          <div class="col-md-12">
+            <h4>FAQs</h4>
+              <div id="section5">
+                <div class="p0">
+                  <div class="panel-group e-challan-faqs f16" id="accordion">
+                    <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="accordionTitle" data-toggle="collapse" data-parent="#accordion" href="#collapse1">
+                            What is the validity of my vehicle fitness certificate?<span class="accordionSign"></span></a>
+                        </h4>
+                      </div>
+                      <div id="collapse1" class="panel-collapse collapse in">
+                        <div class="panel-body">As mentioned before, the validity of the vehicle fitness certificate depends on the class of vehicle. For new private vehicles, the validity of the vehicle fitness certificate is up to 15 years, and then for 5 years for subsequent renewals. In case of commercial vehicles, vehicle fitness certificate validity is at 2 years, post which it is renewed for 1 year subsequently.</div>
+                      </div>
+                    </div>
+                    <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="collapsed accordionTitle" data-toggle="collapse" data-parent="#accordion" href="#collapse2">Which RTO forms are required for a vehicle fitness certificate?<span class="accordionSign"></span></a>
+                        </h4>
+                      </div>
+                    <div id="collapse2" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        Apart from the vehicle’s documents, in order to procure a vehicle fitness certificate, you need to submit the following forms:
+                        <ul>
+                          <li>Form 20</li>
+                          <li>Form 21</li>
+                          <li>Form 22</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading">
+                      <h4 class="panel-title">
+                        <a class="collapsed accordionTitle" data-toggle="collapse" data-parent="#accordion" href="#collapse3">How can I get a fitness certificate for my car after 15 years?<span class="accordionSign"></span></a>
+                      </h4>
+                    </div>
+                    <div id="collapse3" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        In order to get a fitness certificate for car after 15 years, you need to apply for a fitness certificate renewal. After submitting the required documents, you will have a renewed online car fitness certification that will be valid for subsequent 5 years.
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="collapsed accordionTitle" data-toggle="collapse" data-parent="#accordion" href="#collapse4">How can I get a duplicate vehicle fitness certificate?<span class="accordionSign"></span></a>
+                        </h4>
+                      </div>
+                    <div id="collapse4" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        You can apply for a duplicate vehicle fitness certificate in case of loss, theft, or damage to the original certificate. To do so, you need to submit the following documents to the zonal RTO:
+                        <ul>
+                        <li>Application stating the date of issue/expiry of certificate of fitness</li>
+                        <li>Road tax clearance report</li>
+                        <li>Copy of the FIR</li>
+                        <li>Challan clearance</li>
+                        <li>Photocopy of original fitness certificate</li>
+                        <li>Application fee of Rs. 120/-</li>
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="collapsed accordionTitle" data-toggle="collapse" data-parent="#accordion" href="#collapse5">Can the RTO cancel my fitness certificate issued for my car/two wheeler?<span class="accordionSign"></span></a>
+                        </h4>
+                      </div>
+                    <div id="collapse5" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        Yes. In case the performance and health of your vehicle is not fit and in compliance with the RTO standards, the RTO can cancel the fitness certificate of your vehicle. 
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="panel panel-default">
+                      <div class="panel-heading">
+                        <h4 class="panel-title">
+                          <a class="collapsed accordionTitle" data-toggle="collapse" data-parent="#accordion" href="#collapse6">What price do I have to pay for my bike and car fitness certificate?
+<span class="accordionSign"></span></a>
+                        </h4>
+                      </div>
+                    <div id="collapse6" class="panel-collapse collapse">
+                      <div class="panel-body">
+                        To get a fresh vehicle fitness certificate for your car and/or bike, you will have to pay a fee ranging from Rs. 100/- to Rs. 300/- only. 
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <!-- <div class="floating-wpp "></div> -->
+          </div>
+    </div>
+        </div>
+      </section>
+         </div>
+      </div>
+   </div>
+
+
+<script src="support1/js/thiradparty-plugin.js?v=0.2" defer="defer"></script>
+  <script async src="support1/HTWF/scripts/jquery.magnific-popup.min.js"></script>
+   <script async src="support1/HTWF/scripts/isotope.min.js"></script>
+ <script async src="support1/HTWF/scripts/php/contact-form.js?v=4"></script>      
+  <script defer="defer" src="support1/HTWF/scripts/jquery.tab-accordion.js?v=1"></script>
+  <script async src="support1/HTWF/scripts/bootstrap/js/bootstrap.popover.min.js"></script><footer class="footer-base">
+        <div class="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 footer-left text-left">
+                    
+                        <div class="row">
+                           <div class="col-md-4">
+                                <h3>Products and Services </h3>
+                <hr class="space s" />
+                                <ul class="ul-dots text-s">
+                                  <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="vehicle_reg.php">Vehicle Registration</a>
+                  <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="vehicle_fit.php">Vehicle Fitness</a>
+                </li>
+                </li>
+                
+                <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="vehicle_permit.php">Vehicle Permit</a>
+                </li>
+
+                <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="road_tax.php">Road Tax</a>
+                </li>  <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="hypothecation.php">Hypothecation</a>
+                </li>  <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="certification.php">NOC (No objection certificate)</a>
+                </li> 
+                                        <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="moter.php">Motor Insurance</a>
+                </li>
+                
+                <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="speedlimit.php">Speed Limit Device</a>
+                </li>
+                  <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="fastage.php">Fastag</a>
+                </li>
+
+                <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="gpstracker.php">AIS 140 GPS</a>
+                </li>
+                 <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="reflective.php">Reflective tape</a>
+                </li>
+                <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="reflective.php">HSRP Number Plate</a>
+                </li>
+                 
+                                </ul>
+                            </div>
+                          
+                                                    <div class="col-md-4">
+                                <h3>Quick Links</h3>
+                <hr class="space s" />
+                                <ul class="ul-dots text-s">
+                                      <li>
+                                             
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="index.php">Home</a>
+                </li>
+                <li class="mb-3 text-light" style="color:#9daac7 !important">
+                                             
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="about.php">About Us</a>
+                </li>
+
+                <li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="contactus.php">Contact Us</a>
+                </li>
+<li class="mb-3 text-light" style="color:#9daac7 !important">
+                  <a class="text-light d-block" style="color:#9daac7 !important" href="career.php">Career</a>
+                </li>
+                
+                        
+                                </ul>
+                                 <h3>Solutions</h3>
+            
+                                <ul class="ul-dots text-s">
+                                <li>
+                     <a href="fo.php" target="_blank">Fleet Owner</a>
+                  </li>
+                  <li>
+                     <a href="auto.php" target="_blank">Automobile Dealer</a>
+                  </li></ul>
+                    <h3>Available in Google play store</h3>
+            
+                            
+                                  <a target="_blank" href="https://play.google.com/store/apps/details?id=com.go.gaadiwalaonline.go">  <img src="images/android.png"></a><br>  
+   
+                                       
+                                </ul>
+                        
+                            </div>
+                           <div class="col-md-4">
+                                <h3>Legal</h3>
+                <hr class="space s" />
+                                <ul class="ul-dots text-s">
+                                <li>
+                     <a href="privacy_policy.php" target="_blank">Privacy policy</a>
+                  </li>
+                  <li>
+                     <a href="refund_cancel_policy.php" target="_blank">Refund & Cancellation policy</a>
+                  </li>
+                  <li>
+                     <a href="term_of_use.php" target="_blank">Terms</a>
+                  </li></ul>
+                   <h3>Useful Links</h3>
+            
+                                <ul class="ul-dots text-s">
+                                <li>
+                     <a href="https://parivahan.gov.in/parivahan/" target="_blank">Parivahan</a>
+                  </li>
+                  <li>
+                     <a href="https://morth.nic.in/" target="_blank">Morth</a>
+                  </li>
+                  
+                                       
+                                </ul>
+                        
+                            </div>
+                            
+                                                    </div>
+                    </div>
+                    <div class="col-md-3 footer-right text-left">
+                                <img id="logo1" style="height: 45px;" class="logo-default" src="www.gaadiwalaonline.com/images/logo.png" alt="logo" /> <br><br>
+                      
+                             <a href="https://www.google.com/maps/place/Gaadiwalaonline.com+(Mapping+Network+Solution+Pvt+Ltd)/@19.080573,72.850879,19z/data=!4m5!3m4!1s0x0:0xd0a6b7a269ed0e46!8m2!3d19.0805734!4d72.8508787?hl=en" rel="noreferrer" target="_blank" class="text-s">Mapping Network Solution Pvt Ltd,<br>Nabibux House, 3rd Floor,
+Vakola Bridge
+Road, Santacruz (E),<br>Mumbai
+400 055, Maharashta,INDIA</a>
+         <hr class="space xs" />
+                        <div class="tag-row text-s">
+                            <span>contact@gaadiwalaonline.com</span>
+                   
+                        </div>
+                        <hr class="space xs" />
+                        <div class="btn-group social-group btn-group-icons">
+                            <a target="_blank" href="https://www.facebook.com/Gaadiwalaonlinecom-100269678138857/" rel="noreferrer" >
+                                <i class="fa fa-facebook text-xs circle"></i>
+                            </a>
+                            <a target="_blank" href="https://twitter.com/gaadiwalaonline" rel="noreferrer" >
+                                <i class="fa fa-twitter text-xs circle"></i>
+                            </a>
+                        
+                                 <a target="_blank" href="https://www.instagram.com/gaadiwalaonline_india" rel="noreferrer" >
+                                <i class="fa fa-instagram text-xs circle"></i>
+                            </a>
+                        </div>
+                  </div>
+            
+                    </div>
+                </div>
+             
+<center>            
+              <div class="row copy-row">
+                <div class="col-md-12 copy-text" style="color:#9daac7 !important">
+                    <center>Copyright © 2020 Mapping Network Solution Pvt Ltd. All rights reserved.<a target="_blank" href="http://www.gaadiwalaonline.com:2095/"> Sign in
+              </center>  </div>
+           </div> 
+        </div>
+
+   
+        <link rel="stylesheet" href="support1/HTWF/scripts/font-awesome/css/font-awesome.css">
+        <script async src="support1/HTWF/scripts/bootstrap/js/bootstrap.min.js" defer="defer"></script>
+        <script src="support1/js/thiradparty-plugin8510.js?v=0.2" defer="defer"></script>
+        <script async src="support1/HTWF/scripts/jquery.progress-counter.js"></script>
+   <script async src="support1/HTWF/scripts/jquery.magnific-popup.min.js"></script>
+      
+
+    </footer>
+    
+
+</body>
+
+  <script src="support1/css/homepage-6e53570f597a9a71eff147631d7faa4dbbe96e250b8e0def6c8951373450bfa6.js"></script>
+
+<script type="text/javascript">
+    (function () {
+        var options = {
+
+            whatsapp: "+919324580342", // WhatsApp number
+            company_logo_url: "https://www.gaadiwalaonline.com/images/logo1.png", // URL of company logo (png, jpg, gif)
+            greeting_message: "Welcome to gaadiwalaonline Its our pleasure to have you with us", // Text of greeting message
+            call_to_action: "Chat with our Expert", // Call to action
+            button_color: "maroon", // Color of button
+            position: "right", // Position may be "right" or "left"
+            order: "whatsapp" // Order of buttons
+        };
+        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
+        var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = url + "/widget-send-button/js/init.js";
+        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
+        var x = document.getElementsByTagName("script")[0]; x.parentNode.insertBefore(s, x);
+    })();
+</script>
+
+</a>
+</html>

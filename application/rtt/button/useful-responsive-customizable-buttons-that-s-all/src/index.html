@@ -1,0 +1,56 @@
+<!-- BASE URL
+       Setting base URL - eliminates a LOT of
+       redundant markup.  -->
+
+<base href="https://assets.codepen.io/191814/">
+
+<!-- BUTTON CONTAINER
+      FOR DEMO.  Buttons will inherit
+      width of their parent container. -->
+
+<div class="button-container">
+
+  <!-- BUTTON MARKUP  -->
+
+  <button class="unique-button-class">
+    <div class="lazyload" data-bg="tommy-concouse-trumpet.jpg?width=300&height=216&format=auto">
+      <span></span>
+    </div>
+    <h2>Click Me!</h2>
+    <h3>transform scale press effect</h3>
+  </button>
+
+
+  <button class="unique-button-class spin">
+    <!-- SPIN Animation class applied to SPAN overlay -->
+    <div>
+      <span>★</span>
+    </div>
+    <h2>Animation</h2>
+    <h3>on hover & active state</h3>
+  </button>
+
+  <!-- BUTTON MARK-UP WITH SPAN TEXT OVERLAY
+        The SPAN container overlays the background
+        image DIV container.  -->
+
+  <button class="unique-button-class">
+    <div class="lazyload" data-bg="1934-vesey-walker-evelyn-pennak.jpg?width=300&height=216&format=auto">
+      <span>1934</span>
+
+    </div>
+    <h2>Useful Span</h2>
+    <h3>text / overlay on background</h3>
+  </button>
+
+  <!-- BUTTON MARK0UP NO LAZYLOAD
+        Background image as inline style for keft panel background image
+        -->
+
+  <button class="unique-button-class">
+    <div style="background-image: url(berlin-1934-vesey.jpg?width=300&height=216&format=auto);"><span></span></div>
+    <h2>NO LAZYLOAD</h2>
+    <h3>Inline CSS Style for BG IMAGE</h3>
+  </button>
+
+</div>

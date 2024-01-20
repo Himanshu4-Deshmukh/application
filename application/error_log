@@ -1,0 +1,740 @@
+[14-Aug-2023 06:19:14 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/conn.php:13
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/conn.php(13): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'vahanfin')
+#1 /home3/gaadixug/vahanfin.com/application/header.php(3): include_once('/home3/gaadixug...')
+#2 /home3/gaadixug/vahanfin.com/application/index.php(2): include_once('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/conn.php on line 13
+[14-Aug-2023 06:19:24 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/conn.php:13
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/conn.php(13): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'vahanfin')
+#1 /home3/gaadixug/vahanfin.com/application/login.php(5): include_once('/home3/gaadixug...')
+#2 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/conn.php on line 13
+[14-Aug-2023 06:21:56 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 06:21:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 06:25:17 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 06:25:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:07:16 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:07:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:30:06 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 174
+[14-Aug-2023 14:30:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:174
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 174
+[14-Aug-2023 14:33:23 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 563
+[14-Aug-2023 14:33:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:563
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 563
+[14-Aug-2023 14:33:46 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:33:46 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:35:08 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 111
+[14-Aug-2023 14:35:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:111
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 111
+[14-Aug-2023 14:36:37 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:36:37 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:37:04 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:37:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[14-Aug-2023 14:38:03 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 106
+[14-Aug-2023 14:38:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:106
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 106
+[14-Aug-2023 14:39:13 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:39:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:39:42 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:39:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:14 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:14 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:18 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:31 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:31 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:59 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:40:59 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:41:01 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:41:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:41:05 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:41:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:41:07 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:41:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:109
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 109
+[14-Aug-2023 14:42:21 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 115
+[14-Aug-2023 14:42:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:115
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 115
+[14-Aug-2023 14:43:17 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 14:43:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 14:43:55 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 14:43:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 14:44:09 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 14:44:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 14:45:57 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 14:45:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 15:41:42 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 15:41:42 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 15:46:06 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 446
+[14-Aug-2023 15:46:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/loginvahan.php:446
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 446
+[14-Aug-2023 15:47:17 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 413
+[14-Aug-2023 15:47:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/loginvahan.php:413
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 413
+[14-Aug-2023 15:49:20 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 406
+[14-Aug-2023 15:49:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/loginvahan.php:406
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 406
+[14-Aug-2023 15:51:07 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 409
+[14-Aug-2023 15:51:07 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/loginvahan.php:409
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 409
+[14-Aug-2023 15:54:05 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 111
+[14-Aug-2023 15:54:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/loginvahan.php:111
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 111
+[14-Aug-2023 15:54:55 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 413
+[14-Aug-2023 15:54:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/loginvahan.php:413
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 413
+[14-Aug-2023 15:56:40 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 15:56:48 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 15:58:37 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 328
+[14-Aug-2023 16:00:12 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 358
+[14-Aug-2023 16:00:44 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 322
+[14-Aug-2023 16:01:14 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 16:02:04 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 322
+[14-Aug-2023 16:02:29 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 16:05:15 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 338
+[14-Aug-2023 16:05:20 America/Chicago] PHP Warning:  Undefined array key "uname" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 6
+[14-Aug-2023 16:05:20 America/Chicago] PHP Warning:  Undefined array key "pwd" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 7
+[14-Aug-2023 16:05:53 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 338
+[14-Aug-2023 16:05:55 America/Chicago] PHP Warning:  Undefined array key "uname" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 6
+[14-Aug-2023 16:05:55 America/Chicago] PHP Warning:  Undefined array key "pwd" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 7
+[14-Aug-2023 16:09:40 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 338
+[14-Aug-2023 16:09:44 America/Chicago] PHP Warning:  Undefined array key "uname" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 6
+[14-Aug-2023 16:09:44 America/Chicago] PHP Warning:  Undefined array key "pwd" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 7
+[14-Aug-2023 16:10:05 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 16:12:25 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 16:12:28 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 16:13:22 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 16:14:46 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 338
+[14-Aug-2023 16:14:49 America/Chicago] PHP Warning:  Undefined array key "uname" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 6
+[14-Aug-2023 16:14:49 America/Chicago] PHP Warning:  Undefined array key "pwd" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 7
+[14-Aug-2023 16:17:43 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 338
+[14-Aug-2023 16:18:12 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 342
+[14-Aug-2023 16:20:31 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 335
+[14-Aug-2023 16:20:33 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 335
+[14-Aug-2023 16:21:34 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 331
+[14-Aug-2023 16:21:36 America/Chicago] PHP Warning:  Undefined array key "uname" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 6
+[14-Aug-2023 16:21:36 America/Chicago] PHP Warning:  Undefined array key "pwd" in /home3/gaadixug/vahanfin.com/application/loginvalidate.php on line 7
+[14-Aug-2023 16:22:45 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 331
+[14-Aug-2023 16:23:30 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 16:24:42 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 324
+[14-Aug-2023 16:26:41 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 324
+[14-Aug-2023 16:26:59 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 324
+[14-Aug-2023 16:47:55 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 324
+[14-Aug-2023 16:47:58 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 324
+[14-Aug-2023 16:49:02 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 324
+[14-Aug-2023 16:49:51 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 324
+[14-Aug-2023 16:52:38 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 16:52:42 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 16:53:16 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 16:54:53 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 16:56:07 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 16:56:22 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 16:56:32 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 16:56:55 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 16:58:08 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 16:58:42 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 16:59:21 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 17:01:16 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 17:09:58 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 17:13:06 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 17:15:05 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 17:17:01 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 333
+[14-Aug-2023 17:19:03 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 17:20:04 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 325
+[14-Aug-2023 17:20:31 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 17:21:12 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 17:21:31 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 327
+[14-Aug-2023 17:23:42 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 17:47:08 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 17:50:11 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 17:58:33 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 17:58:33 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[14-Aug-2023 17:59:00 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 18:15:33 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 18:20:02 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 18:53:02 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 18:54:28 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 18:58:51 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[14-Aug-2023 19:40:57 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[15-Aug-2023 01:19:13 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[15-Aug-2023 01:25:15 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[15-Aug-2023 04:52:43 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[15-Aug-2023 04:52:59 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[15-Aug-2023 05:09:47 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[15-Aug-2023 08:05:41 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[15-Aug-2023 08:13:05 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[16-Aug-2023 02:43:27 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[16-Aug-2023 02:54:39 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[16-Aug-2023 02:54:39 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[18-Aug-2023 00:49:50 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[18-Aug-2023 00:50:40 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[18-Aug-2023 00:50:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:113
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 113
+[18-Aug-2023 03:25:12 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[18-Aug-2023 03:39:09 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[18-Aug-2023 03:45:37 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[18-Aug-2023 04:16:48 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[18-Aug-2023 04:16:54 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[18-Aug-2023 04:51:40 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[18-Aug-2023 04:51:45 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 01:13:57 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 03:37:25 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 03:49:50 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 07:48:01 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 07:53:58 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 07:59:15 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 08:13:35 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 08:33:14 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 08:59:14 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "model", expecting "]" in /home3/gaadixug/vahanfin.com/application/dashboard.php on line 1055
+[19-Aug-2023 09:01:42 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "mfg_by", expecting "]" in /home3/gaadixug/vahanfin.com/application/dashboard.php on line 977
+[19-Aug-2023 09:13:19 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 09:14:43 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 09:15:37 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 09:31:46 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 10:38:04 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 10:38:33 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 10:40:28 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 11:37:37 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[19-Aug-2023 23:42:49 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 00:06:42 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 00:09:32 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 01:09:43 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 02:56:26 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 03:35:58 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 03:46:18 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 07:15:39 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 07:58:41 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/conn.php:13
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/conn.php(13): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'vahanfin')
+#1 /home3/gaadixug/vahanfin.com/application/loginvahan.php(5): include_once('/home3/gaadixug...')
+#2 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/conn.php on line 13
+[20-Aug-2023 08:00:07 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 08:48:36 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 08:50:18 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 09:08:10 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 09:40:51 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 10:01:11 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 10:05:41 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 10:59:30 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 11:13:39 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 11:18:38 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 11:19:48 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 12:46:34 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 12:49:02 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 12:51:06 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 12:52:13 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 12:53:07 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 12:59:22 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 13:17:34 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 17:56:03 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 18:39:04 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[20-Aug-2023 23:14:50 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 00:16:48 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 00:46:16 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 00:47:09 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 00:51:17 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[21-Aug-2023 00:51:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[21-Aug-2023 00:51:23 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 01:03:20 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 01:35:22 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 01:35:29 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 01:35:44 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 01:36:17 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 01:36:28 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 02:52:59 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 03:23:17 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 04:25:12 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 04:30:16 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:30:32 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:50 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:51 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:53 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:53 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:54 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:54 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:55 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:55 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:31:56 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:32:40 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:33:03 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:33:33 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 05:38:29 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 06:37:01 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 08:14:16 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 08:16:34 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 08:39:30 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 11:27:18 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 13:20:17 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 13:24:26 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 13:32:39 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 13:38:36 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 14:08:19 America/Chicago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/ajax.php on line 2
+[21-Aug-2023 14:08:19 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/ajax.php on line 2
+[21-Aug-2023 14:08:19 America/Chicago] PHP Warning:  Undefined variable $conn in /home3/gaadixug/vahanfin.com/application/ajax.php on line 9
+[21-Aug-2023 14:08:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/gaadixug/vahanfin.com/application/ajax.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 9
+[21-Aug-2023 14:09:20 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 14:10:11 America/Chicago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/ajax.php on line 2
+[21-Aug-2023 14:10:11 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/ajax.php on line 2
+[21-Aug-2023 14:10:11 America/Chicago] PHP Warning:  Undefined variable $conn in /home3/gaadixug/vahanfin.com/application/ajax.php on line 9
+[21-Aug-2023 14:10:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/gaadixug/vahanfin.com/application/ajax.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 9
+[21-Aug-2023 14:39:44 America/Chicago] PHP Warning:  include(config.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/service-edit.php on line 2
+[21-Aug-2023 14:39:44 America/Chicago] PHP Warning:  include(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/service-edit.php on line 2
+[21-Aug-2023 14:39:44 America/Chicago] PHP Warning:  Undefined variable $conn in /home3/gaadixug/vahanfin.com/application/service-edit.php on line 134
+[21-Aug-2023 14:39:44 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/gaadixug/vahanfin.com/application/service-edit.php:134
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/service-edit.php on line 134
+[21-Aug-2023 15:07:42 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 15:10:36 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 15:11:05 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/loginvahan.php on line 326
+[21-Aug-2023 15:26:06 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home3/gaadixug/vahanfin.com/application/add-new.php:158
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/add-new.php(158): mysqli->query('SELECT code fro...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/add-new.php on line 158
+[21-Aug-2023 15:53:11 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home3/gaadixug/vahanfin.com/application/add-new.php:158
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/add-new.php(158): mysqli->query('SELECT code fro...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/add-new.php on line 158
+[22-Aug-2023 02:20:14 America/Chicago] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home3/gaadixug/vahanfin.com/application/add-new.php:158
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/add-new.php(158): mysqli->query('SELECT code fro...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/add-new.php on line 158
+[22-Aug-2023 05:41:59 America/Chicago] PHP Warning:  Undefined array key "rto" in /home3/gaadixug/vahanfin.com/application/add-more.php on line 9
+[22-Aug-2023 05:41:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/gaadixug/vahanfin.com/application/add-more.php:9) in /home3/gaadixug/vahanfin.com/application/add-more.php on line 39
+[22-Aug-2023 06:04:23 America/Chicago] PHP Warning:  Undefined array key "rto" in /home3/gaadixug/vahanfin.com/application/add-more.php on line 9
+[22-Aug-2023 06:04:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/gaadixug/vahanfin.com/application/add-more.php:9) in /home3/gaadixug/vahanfin.com/application/add-more.php on line 39
+[22-Aug-2023 06:05:10 America/Chicago] PHP Warning:  Undefined array key "rto" in /home3/gaadixug/vahanfin.com/application/add-more.php on line 9
+[22-Aug-2023 06:05:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/gaadixug/vahanfin.com/application/add-more.php:9) in /home3/gaadixug/vahanfin.com/application/add-more.php on line 39
+[22-Aug-2023 08:12:17 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax.php on line 28
+[23-Aug-2023 08:17:38 America/Chicago] PHP Parse error:  Unclosed '{' on line 179 in /home3/gaadixug/vahanfin.com/application/1getVehicleDetails.php on line 318
+[23-Aug-2023 08:17:47 America/Chicago] PHP Parse error:  Unclosed '{' on line 179 in /home3/gaadixug/vahanfin.com/application/1getVehicleDetails.php on line 318
+[24-Aug-2023 00:51:27 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 01:17:35 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 01:21:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 01:21:49 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home3/gaadixug/vahanfin.com/application/index.php:190
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/index.php(190): mysqli->query('SELECT name,cod...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/index.php on line 190
+[24-Aug-2023 01:26:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home3/gaadixug/vahanfin.com/application/index.php:190
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/index.php(190): mysqli->query('SELECT name,cod...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/index.php on line 190
+[24-Aug-2023 01:26:50 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 01:27:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 01:30:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_indigo.hdfc_data' doesn't exist in /home3/gaadixug/vahanfin.com/application/ajax.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(9): mysqli->query('SELECT rto FROM...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 9
+[24-Aug-2023 01:30:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_indigo.hdfc_data' doesn't exist in /home3/gaadixug/vahanfin.com/application/ajax.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(9): mysqli->query('SELECT rto FROM...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 9
+[24-Aug-2023 01:32:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 02:07:17 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 02:10:33 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 03:44:42 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 03:44:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'name' in 'field list' in /home3/gaadixug/vahanfin.com/application/index.php:190
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/index.php(190): mysqli->query('SELECT name,cod...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/index.php on line 190
+[24-Aug-2023 03:51:11 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:00:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:02:05 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:02:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:03:20 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:03:22 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:03:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:03:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:29:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 04:29:43 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 05:36:37 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'code' in 'field list' in /home3/gaadixug/vahanfin.com/application/ajax.php:20
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/ajax.php(20): mysqli->query('SELECT code, na...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/ajax.php on line 20
+[24-Aug-2023 16:04:09 America/Chicago] PHP Parse error:  Unclosed '{' on line 6 in /home3/gaadixug/vahanfin.com/application/editVehicleDetails.php on line 764
+[26-Aug-2023 03:16:13 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax.php on line 28
+[26-Aug-2023 11:13:32 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Aug-2023 11:13:32 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Aug-2023 11:14:37 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Aug-2023 11:14:37 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Aug-2023 13:11:02 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Aug-2023 13:12:27 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Aug-2023 13:13:45 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:12:08 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:12:08 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:12:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:12:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:18:38 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:18:38 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:19:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:19:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:19:51 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:21:41 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:25:27 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:27:23 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:28:12 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:28:37 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:30:05 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:30:05 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:31:28 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:31:28 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:32:22 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:32:35 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:32:52 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:32:52 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:33:40 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:33:40 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:34:40 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:34:40 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:35:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 11:35:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[31-Aug-2023 12:13:08 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/gaadixug/vahanfin.com/application/totalRecDocument.php on line 136
+[02-Sep-2023 14:05:38 America/Chicago] PHP Warning:  Undefined variable $googleClient in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[02-Sep-2023 14:05:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function createAuthUrl() on null in /home3/gaadixug/vahanfin.com/application/login.php:110
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/login.php on line 110
+[02-Sep-2023 22:14:47 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[02-Sep-2023 22:14:47 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[02-Sep-2023 22:56:54 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[02-Sep-2023 22:56:54 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[02-Sep-2023 23:04:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[02-Sep-2023 23:07:35 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Sep-2023 12:02:58 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Sep-2023 12:04:46 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Sep-2023 12:04:46 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Sep-2023 12:05:36 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[03-Oct-2023 07:12:38 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 02:29:38 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 02:29:58 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:01:12 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:01:35 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:02:28 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:02:36 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:02:45 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:03:30 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:03:43 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:04:08 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:04:08 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:04:45 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:05:29 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:05:34 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:05:53 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:06:00 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:06:26 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 03:18:51 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:15:52 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:17:30 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:49:11 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:49:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:50:06 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:50:48 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:51:27 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:52:27 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:53:23 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:54:22 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:55:05 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:57:56 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:58:31 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:58:57 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:59:03 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:59:28 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:59:28 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:59:51 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 04:59:51 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:00:15 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:00:15 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:00:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:00:33 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:00:33 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:00:50 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:00:50 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:01:05 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:01:05 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:01:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:01:26 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:01:57 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:01:57 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:02:29 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:02:29 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:02:47 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:02:47 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:03:04 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:03:04 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:03:20 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:03:20 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:03:49 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:03:49 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:04:09 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:04:09 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:04:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:04:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:04:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:04:44 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:05:02 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:05:02 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:05:30 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:05:30 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:05:45 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:05:45 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:02 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:02 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:21 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:21 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:38 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:38 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:55 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:06:55 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:07:12 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:07:12 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:07:32 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:07:32 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:07:49 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:07:49 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:08:09 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:08:09 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:08:32 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:08:32 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:08:51 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:08:51 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:09:11 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:09:11 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:09:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:09:25 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Oct-2023 05:14:28 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[04-Nov-2023 08:15:20 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Nov-2023 19:34:12 America/Chicago] PHP Warning:  include(includes/header1.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 2
+[12-Nov-2023 19:34:12 America/Chicago] PHP Warning:  include(): Failed opening 'includes/header1.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 2
+[12-Nov-2023 19:34:12 America/Chicago] PHP Warning:  include(includes/sidebar1.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 3
+[12-Nov-2023 19:34:12 America/Chicago] PHP Warning:  include(): Failed opening 'includes/sidebar1.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 3
+[12-Nov-2023 19:34:12 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 6
+[12-Nov-2023 19:34:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 6
+[12-Nov-2023 19:34:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllVehicleDataByUid() in /home3/gaadixug/vahanfin.com/application/dashboard1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 7
+[12-Nov-2023 19:34:17 America/Chicago] PHP Warning:  include(includes/header1.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 2
+[12-Nov-2023 19:34:17 America/Chicago] PHP Warning:  include(): Failed opening 'includes/header1.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 2
+[12-Nov-2023 19:34:17 America/Chicago] PHP Warning:  include(includes/sidebar1.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 3
+[12-Nov-2023 19:34:17 America/Chicago] PHP Warning:  include(): Failed opening 'includes/sidebar1.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 3
+[12-Nov-2023 19:34:17 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 6
+[12-Nov-2023 19:34:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 6
+[12-Nov-2023 19:34:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllVehicleDataByUid() in /home3/gaadixug/vahanfin.com/application/dashboard1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 7
+[12-Nov-2023 19:34:27 America/Chicago] PHP Warning:  include(includes/header1.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 2
+[12-Nov-2023 19:34:27 America/Chicago] PHP Warning:  include(): Failed opening 'includes/header1.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 2
+[12-Nov-2023 19:34:27 America/Chicago] PHP Warning:  include(includes/sidebar1.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 3
+[12-Nov-2023 19:34:27 America/Chicago] PHP Warning:  include(): Failed opening 'includes/sidebar1.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 3
+[12-Nov-2023 19:34:27 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 6
+[12-Nov-2023 19:34:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 6
+[12-Nov-2023 19:34:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllVehicleDataByUid() in /home3/gaadixug/vahanfin.com/application/dashboard1.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/dashboard1.php on line 7
+[12-Nov-2023 19:41:46 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Nov-2023 19:53:02 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Nov-2023 19:53:34 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Nov-2023 20:01:59 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Nov-2023 20:09:37 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Nov-2023 20:10:30 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[12-Nov-2023 20:15:00 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:12:46 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:12:46 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:13:56 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:14:15 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:21:57 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:22:36 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:22:49 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:23:23 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[26-Nov-2023 00:35:44 America/Chicago] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /home3/gaadixug/vahanfin.com/application/dashboard.php on line 1081
+[26-Nov-2023 01:14:17 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[04-Dec-2023 15:45:22 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28
+[11-Dec-2023 03:44:40 America/Chicago] PHP Warning:  Undefined variable $array in /home3/gaadixug/vahanfin.com/application/ajax1.php on line 28

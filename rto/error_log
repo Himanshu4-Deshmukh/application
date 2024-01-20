@@ -1,0 +1,219 @@
+[14-Aug-2023 17:59:13 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 17:59:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php on line 215
+[14-Aug-2023 17:59:41 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 17:59:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php on line 215
+[14-Aug-2023 18:00:07 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:00:27 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php on line 215
+[14-Aug-2023 18:00:34 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:01:32 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 46
+[14-Aug-2023 18:01:52 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:02:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php on line 215
+[14-Aug-2023 18:03:41 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:03:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 215
+[14-Aug-2023 18:08:54 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:65
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 65
+[14-Aug-2023 18:09:27 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:09:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 216
+[14-Aug-2023 18:09:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 216
+[14-Aug-2023 18:11:12 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:77
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 77
+[14-Aug-2023 18:11:44 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:75
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 75
+[14-Aug-2023 18:11:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 219
+[14-Aug-2023 18:13:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 230
+[14-Aug-2023 18:14:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:16:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:17:35 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:03 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:04 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:06 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:18:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:19:09 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:19:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:20:05 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:20:14 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:20:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:20:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 220
+[14-Aug-2023 18:26:42 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:83
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 83
+[14-Aug-2023 18:28:28 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 68
+[14-Aug-2023 18:28:41 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:29:41 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:29:43 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:29:46 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:30:27 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:30:31 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:31:01 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 68
+[14-Aug-2023 18:31:07 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 68
+[14-Aug-2023 18:35:16 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php:41
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php on line 41
+[14-Aug-2023 18:40:40 America/Chicago] PHP Parse error:  syntax error, unexpected token ">" in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php on line 135
+[14-Aug-2023 18:41:27 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:41:44 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:44:02 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 68
+[14-Aug-2023 18:44:06 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 68
+[14-Aug-2023 18:44:27 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:61
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 61
+[14-Aug-2023 18:45:01 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:61
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 61
+[14-Aug-2023 18:45:47 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:61
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 61
+[14-Aug-2023 18:49:00 America/Chicago] PHP Warning:  Undefined variable $conn in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 54
+[14-Aug-2023 18:49:00 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:54
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php(54): mysqli_query(NULL, 'SELECT * FROM d...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 54
+[14-Aug-2023 18:49:26 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:62
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 62
+[14-Aug-2023 18:51:13 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:51:18 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:51:28 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:54:38 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php:68
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 68
+[14-Aug-2023 18:58:54 America/Chicago] PHP Warning:  Undefined array key "status" in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 7
+[14-Aug-2023 18:58:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/gaadixug/vahanfin.com/application/rto/includes/header.php:6) in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 11
+[14-Aug-2023 18:59:17 America/Chicago] PHP Warning:  Undefined array key "status" in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 7
+[14-Aug-2023 18:59:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/gaadixug/vahanfin.com/application/rto/includes/header.php:6) in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 11
+[14-Aug-2023 19:08:17 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 30
+[14-Aug-2023 19:12:40 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$id", expecting "," or ";" in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 89
+[14-Aug-2023 19:24:22 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$id", expecting "," or ";" in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 75
+[14-Aug-2023 19:24:31 America/Chicago] PHP Parse error:  syntax error, unexpected variable "$id", expecting "," or ";" in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 75
+[14-Aug-2023 19:34:09 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php:76
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rto/dashboard1.php on line 76
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Undefined variable $activeFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Undefined variable $activeFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Undefined variable $expFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 26
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 26
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Undefined variable $expFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 26
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 26
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Undefined variable $expiredFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 28
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 28
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Undefined variable $expiredFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 28
+[15-Aug-2023 01:37:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 28
+[15-Aug-2023 01:38:31 America/Chicago] PHP Warning:  Undefined variable $activeFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[15-Aug-2023 01:38:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[15-Aug-2023 01:38:31 America/Chicago] PHP Warning:  Undefined variable $activeFitness in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[15-Aug-2023 01:38:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 23
+[20-Aug-2023 12:51:41 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[20-Aug-2023 12:52:02 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[26-Aug-2023 22:53:15 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[12-Nov-2023 04:18:30 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[12-Nov-2023 04:18:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/totalVehicle.php on line 215
+[12-Nov-2023 04:18:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[12-Nov-2023 04:18:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/completeDocument.php on line 212
+[12-Nov-2023 04:20:31 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/completeDocument.php on line 212
+[12-Nov-2023 04:21:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/completeDocument.php on line 212
+[12-Nov-2023 09:53:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[12-Nov-2023 09:54:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[04-Dec-2023 15:30:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[04-Dec-2023 15:30:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/completeDocument.php on line 212
+[04-Dec-2023 15:30:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[04-Dec-2023 15:32:21 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[09-Dec-2023 12:30:59 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283
+[09-Dec-2023 12:31:40 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/completeDocument.php on line 212
+[09-Dec-2023 12:34:47 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/completeDocument.php on line 212
+[09-Dec-2023 12:34:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rto/dashboard.php on line 283

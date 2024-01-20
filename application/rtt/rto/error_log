@@ -1,0 +1,362 @@
+[21-Aug-2023 08:14:27 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/rtopricing/config.php on line 12
+[21-Aug-2023 08:18:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 08:19:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 08:28:06 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 53
+[21-Aug-2023 08:31:42 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 53
+[21-Aug-2023 08:32:40 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 53
+[21-Aug-2023 08:32:43 America/Chicago] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, int given in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:53
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 53
+[21-Aug-2023 08:33:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 299
+[21-Aug-2023 08:34:42 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 08:34:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/totalVehicle.php on line 216
+[21-Aug-2023 08:35:08 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 08:36:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/totalVehicle.php on line 216
+[21-Aug-2023 08:37:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 08:38:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard1.php on line 283
+[21-Aug-2023 08:41:56 America/Chicago] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/rtt/config.php on line 12
+[21-Aug-2023 08:43:21 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_indigo.hdfc_data' doesn't exist in /home3/gaadixug/vahanfin.com/application/rtt/ajax.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/ajax.php(9): mysqli->query('SELECT rto FROM...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/ajax.php on line 9
+[21-Aug-2023 08:43:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gaadixug_indigo'@'localhost' to database 'gaadixug_hdfc_integrator' in /home3/gaadixug/vahanfin.com/application/rtt/config.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/config.php(9): mysqli->__construct('localhost:3306', 'gaadixug_indigo', Object(SensitiveParameterValue), 'gaadixug_hdfc_i...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/index.php(2): include('/home3/gaadixug...')
+#2 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/config.php on line 9
+[21-Aug-2023 08:44:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/rtt/config.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/config.php(9): mysqli->__construct('localhost:3306', '', Object(SensitiveParameterValue), 'gaadixug_hdfc_i...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/index.php(2): include('/home3/gaadixug...')
+#2 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/config.php on line 9
+[21-Aug-2023 08:44:44 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gaadixug_hdfc_integrato'@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/rtt/config.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/config.php(9): mysqli->__construct('localhost:3306', 'gaadixug_hdfc_i...', Object(SensitiveParameterValue), 'gaadixug_hdfc_i...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/index.php(2): include('/home3/gaadixug...')
+#2 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/config.php on line 9
+[21-Aug-2023 08:45:59 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'gaadixug_hdfc_integrato'@'localhost' (using password: YES) in /home3/gaadixug/vahanfin.com/application/rtt/config.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/config.php(9): mysqli->__construct('localhost:3306', 'gaadixug_hdfc_i...', Object(SensitiveParameterValue))
+#1 /home3/gaadixug/vahanfin.com/application/rtt/index.php(2): include('/home3/gaadixug...')
+#2 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/config.php on line 9
+[21-Aug-2023 08:46:25 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_indigo.hdfc_data' doesn't exist in /home3/gaadixug/vahanfin.com/application/rtt/ajax.php:9
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/ajax.php(9): mysqli->query('SELECT rto FROM...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/ajax.php on line 9
+[21-Aug-2023 08:54:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard1.php on line 283
+[21-Aug-2023 08:55:33 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 286
+[21-Aug-2023 08:56:31 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_hdfc_integrator.display_status' doesn't exist in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:44
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(44): mysqli_query(Object(mysqli), 'SELECT * FROM d...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 44
+[21-Aug-2023 08:56:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_hdfc_integrator.display_status' doesn't exist in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:44
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(44): mysqli_query(Object(mysqli), 'SELECT * FROM d...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 44
+[21-Aug-2023 09:00:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_hdfc_integrator.display_status' doesn't exist in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:44
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(44): mysqli_query(Object(mysqli), 'SELECT * FROM d...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 44
+[21-Aug-2023 09:01:32 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_hdfc_integrator.display_status' doesn't exist in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:308
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(308): mysqli_query(Object(mysqli), 'SELECT * FROM d...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 308
+[21-Aug-2023 09:02:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 09:03:04 America/Chicago] PHP Warning:  Undefined variable $conn in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 31
+[21-Aug-2023 09:03:04 America/Chicago] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php:31
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(31): mysqli_query(NULL, 'SELECT * FROM d...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 31
+[21-Aug-2023 09:03:32 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 11:10:12 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'gaadixug_indigo.hdfc_data' doesn't exist in /home3/gaadixug/vahanfin.com/application/rtt/index.php:10
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/index.php(10): mysqli->query('SELECT id,categ...')
+#1 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/index.php on line 10
+[21-Aug-2023 11:25:54 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 11:25:54 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 11:25:54 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 11:26:57 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 11:26:57 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 11:26:57 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 11:27:23 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 283
+[21-Aug-2023 11:29:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 294
+[21-Aug-2023 11:31:04 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 294
+[21-Aug-2023 11:32:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 294
+[21-Aug-2023 11:34:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 435
+[21-Aug-2023 11:34:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 435
+[21-Aug-2023 11:35:53 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 435
+[21-Aug-2023 11:36:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 435
+[21-Aug-2023 11:37:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 295
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 179
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 185
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 200
+[21-Aug-2023 11:39:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 230
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 179
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 185
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 200
+[21-Aug-2023 11:39:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 230
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 179
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 185
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 200
+[21-Aug-2023 11:39:34 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 230
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 179
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 185
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 200
+[21-Aug-2023 11:39:52 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 230
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 179
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 185
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 187
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 198
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 200
+[21-Aug-2023 11:40:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 230
+[21-Aug-2023 11:40:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 295
+[21-Aug-2023 11:41:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 165
+[21-Aug-2023 11:41:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 169
+[21-Aug-2023 11:41:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 173
+[21-Aug-2023 11:41:05 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 435
+[21-Aug-2023 11:41:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 165
+[21-Aug-2023 11:41:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 169
+[21-Aug-2023 11:41:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 173
+[21-Aug-2023 11:41:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 435
+[21-Aug-2023 11:41:57 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 295
+[21-Aug-2023 11:42:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 151
+[21-Aug-2023 11:42:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 155
+[21-Aug-2023 11:42:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 159
+[21-Aug-2023 11:42:37 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 436
+[21-Aug-2023 11:42:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 151
+[21-Aug-2023 11:42:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 155
+[21-Aug-2023 11:42:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 159
+[21-Aug-2023 11:42:51 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 436
+[21-Aug-2023 11:43:18 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 436
+[21-Aug-2023 11:43:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 436
+[21-Aug-2023 11:43:49 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 296
+[21-Aug-2023 11:45:12 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 296
+[21-Aug-2023 11:46:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 296
+[21-Aug-2023 11:47:32 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 296
+[21-Aug-2023 11:52:00 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 296
+[21-Aug-2023 11:52:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 295
+[21-Aug-2023 11:52:26 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 294
+[21-Aug-2023 11:52:46 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 294
+[21-Aug-2023 11:53:58 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 533
+[21-Aug-2023 11:54:22 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 285
+[21-Aug-2023 11:54:39 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 294
+[21-Aug-2023 11:55:19 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 543
+[21-Aug-2023 11:55:55 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 543
+[21-Aug-2023 11:56:48 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 540
+[21-Aug-2023 11:57:29 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 538
+[21-Aug-2023 12:00:11 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 538
+[21-Aug-2023 12:01:50 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 538
+[21-Aug-2023 12:02:54 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 538
+[21-Aug-2023 12:03:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 538
+[21-Aug-2023 12:04:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 538
+[21-Aug-2023 12:05:36 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 538
+[21-Aug-2023 12:06:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 534
+[21-Aug-2023 12:07:01 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 534
+[21-Aug-2023 12:07:10 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 534
+[21-Aug-2023 12:07:17 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 534
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 273
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 279
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 281
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 281
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 292
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 292
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 294
+[21-Aug-2023 12:08:07 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 324
+[21-Aug-2023 12:08:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 534
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 274
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 280
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 282
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 282
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Undefined variable $page in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 293
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 293
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Undefined variable $num_pages in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 295
+[21-Aug-2023 12:09:16 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 325
+[21-Aug-2023 12:46:29 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 12:46:29 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 12:46:29 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 12:46:40 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 12:46:40 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 12:46:40 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 12:46:45 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 12:46:45 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 12:46:45 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 12:46:47 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 12:46:47 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 12:46:47 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 12:46:48 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 12:46:48 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 12:46:48 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 13:19:58 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 13:19:58 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 13:19:58 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 13:20:07 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 23
+[21-Aug-2023 13:20:07 America/Chicago] PHP Warning:  Undefined array key "uid" in /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php on line 25
+[21-Aug-2023 13:20:07 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php:137
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php(137): mysqli_query(Object(mysqli), 'Select * from u...')
+#1 /home3/gaadixug/vahanfin.com/application/rtt/includes/header.php(26): getDataById('user', 'id', NULL)
+#2 /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php(2): include('/home3/gaadixug...')
+#3 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/includes/function.php on line 137
+[21-Aug-2023 13:21:43 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard1.php on line 283
+[21-Aug-2023 13:22:24 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard1.php on line 283
+[21-Aug-2023 13:24:20 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboard1.php on line 283
+[09-Dec-2023 11:05:45 America/Chicago] PHP Warning:  Undefined array key "mfg_date" in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 350
+[09-Dec-2023 11:05:45 America/Chicago] PHP Warning:  Undefined array key "reg_date" in /home3/gaadixug/vahanfin.com/application/rtt/dashboard.php on line 351
+[09-Dec-2023 22:46:57 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home3/gaadixug/vahanfin.com/application/rtt/viewVehicleDetails.php on line 429
+[09-Dec-2023 22:56:54 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home3/gaadixug/vahanfin.com/application/rtt/viewVehicleDetails.php on line 429
+[09-Dec-2023 22:58:57 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home3/gaadixug/vahanfin.com/application/rtt/viewVehicleDetails.php on line 533
+[09-Dec-2023 23:00:39 Asia/Kolkata] PHP Warning:  Undefined array key "error" in /home3/gaadixug/vahanfin.com/application/rtt/viewVehicleDetails.php on line 533
+[09-Dec-2023 12:14:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getActiveCountVehicle() in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 87
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 1
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  include(https://gaadiwalaonline.com/includes/header.php): Failed to open stream: no suitable wrapper could be found in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 1
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  include(): Failed opening 'https://gaadiwalaonline.com/includes/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 1
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 2
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  include(https://gaadiwalaonline.com/includes/sidebar.php): Failed to open stream: no suitable wrapper could be found in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 2
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  include(): Failed opening 'https://gaadiwalaonline.com/includes/sidebar.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 2
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 84
+[09-Dec-2023 12:15:28 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 84
+[09-Dec-2023 12:15:28 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getExpCountVehicle() in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php:86
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 86
+[09-Dec-2023 12:15:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getActiveCountVehicle() in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php:87
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dashboardfleet.php on line 87
+[12-Dec-2023 13:33:13 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 5
+[12-Dec-2023 13:33:13 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 5
+[12-Dec-2023 13:33:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllVehicleDataByUid() in /home3/gaadixug/vahanfin.com/application/rtt/dash.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 6
+[12-Dec-2023 13:37:38 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 4
+[12-Dec-2023 13:37:38 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 4
+[12-Dec-2023 13:37:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllVehicleDataByUid() in /home3/gaadixug/vahanfin.com/application/rtt/dash.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 5
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  include(includes/heade.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 2
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  include(): Failed opening 'includes/heade.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 2
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Undefined variable $user_data in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 7
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 7
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Undefined variable $user_data in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Undefined variable $user_data in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 97
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 97
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 6
+[12-Dec-2023 13:38:25 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 6
+[12-Dec-2023 13:38:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllVehicleDataByUid() in /home3/gaadixug/vahanfin.com/application/rtt/dash.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 7
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  include(includes/heade.php): Failed to open stream: No such file or directory in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 2
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  include(): Failed opening 'includes/heade.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 2
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Undefined variable $user_data in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 7
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 7
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Undefined variable $user_data in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Undefined variable $user_data in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 32
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 97
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/includes/sidebar.php on line 97
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Undefined global variable $_SESSION in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 6
+[12-Dec-2023 13:38:45 America/Chicago] PHP Warning:  Trying to access array offset on value of type null in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 6
+[12-Dec-2023 13:38:45 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function getAllVehicleDataByUid() in /home3/gaadixug/vahanfin.com/application/rtt/dash.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 7
+[12-Dec-2023 13:43:25 America/Chicago] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/gaadixug/vahanfin.com/application/rtt/dash.php on line 479

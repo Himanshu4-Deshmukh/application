@@ -1,0 +1,865 @@
+[14-Aug-2020 10:55:02 America/Chicago] PHP Notice:  Undefined variable: activeInsurance in /home3/gaadixug/public_html/super_user/dashboard.php on line 161
+[14-Aug-2020 10:55:02 America/Chicago] PHP Notice:  Undefined variable: exRtt in /home3/gaadixug/public_html/super_user/dashboard.php on line 201
+[14-Aug-2020 10:58:05 America/Chicago] PHP Notice:  Undefined variable: activeInsurance in /home3/gaadixug/public_html/super_user/dashboard.php on line 161
+[14-Aug-2020 10:58:05 America/Chicago] PHP Notice:  Undefined variable: exRtt in /home3/gaadixug/public_html/super_user/dashboard.php on line 201
+[14-Aug-2020 10:58:19 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 6
+[14-Aug-2020 10:58:19 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[14-Aug-2020 10:58:19 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 212
+[14-Aug-2020 10:58:37 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 6
+[14-Aug-2020 10:58:37 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[14-Aug-2020 10:58:37 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 212
+[14-Aug-2020 10:59:44 America/Chicago] PHP Notice:  Undefined variable: activeInsurance in /home3/gaadixug/public_html/super_user/dashboard.php on line 161
+[14-Aug-2020 10:59:44 America/Chicago] PHP Notice:  Undefined variable: exRtt in /home3/gaadixug/public_html/super_user/dashboard.php on line 201
+[14-Aug-2020 11:18:50 America/Chicago] PHP Notice:  Undefined variable: activeInsurance in /home3/gaadixug/public_html/super_user/dashboard.php on line 161
+[14-Aug-2020 11:18:50 America/Chicago] PHP Notice:  Undefined variable: exRtt in /home3/gaadixug/public_html/super_user/dashboard.php on line 201
+[14-Aug-2020 11:19:16 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 6
+[14-Aug-2020 11:19:16 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[14-Aug-2020 11:19:16 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 212
+[14-Aug-2020 11:21:48 America/Chicago] PHP Notice:  Undefined variable: activeInsurance in /home3/gaadixug/public_html/super_user/dashboard.php on line 161
+[14-Aug-2020 11:21:48 America/Chicago] PHP Notice:  Undefined variable: exRtt in /home3/gaadixug/public_html/super_user/dashboard.php on line 201
+[14-Aug-2020 11:23:49 America/Chicago] PHP Notice:  Undefined variable: exRt in /home3/gaadixug/public_html/super_user/dashboard.php on line 201
+[14-Aug-2020 11:26:18 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 6
+[14-Aug-2020 11:26:18 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[14-Aug-2020 11:26:18 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 212
+[15-Aug-2020 00:03:26 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 6
+[15-Aug-2020 00:03:26 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[15-Aug-2020 00:03:26 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 212
+[15-Aug-2020 00:24:10 America/Chicago] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 538
+[15-Aug-2020 00:24:10 America/Chicago] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 544
+[15-Aug-2020 00:25:05 America/Chicago] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/getExpVehicleDetails.php on line 22
+[15-Aug-2020 00:25:05 America/Chicago] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/getExpVehicleDetails.php on line 28
+[15-Aug-2020 00:25:24 America/Chicago] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/getExpVehicleDetails.php on line 22
+[15-Aug-2020 00:25:24 America/Chicago] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/getExpVehicleDetails.php on line 28
+[18-Aug-2020 10:36:57 America/Chicago] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 538
+[18-Aug-2020 10:36:57 America/Chicago] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 544
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[15-Sep-2020 11:30:15 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[24-Sep-2020 02:19:59 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[24-Sep-2020 03:16:35 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[25-Sep-2020 00:48:39 America/Chicago] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 538
+[25-Sep-2020 00:48:39 America/Chicago] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 544
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[26-Sep-2020 00:32:14 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[26-Sep-2020 00:53:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[26-Sep-2020 09:48:23 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[29-Sep-2020 00:14:40 America/Chicago] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 538
+[29-Sep-2020 00:14:40 America/Chicago] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 544
+[29-Sep-2020 23:07:52 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[22-Oct-2020 20:55:16 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[22-Oct-2020 20:55:16 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[30-Oct-2020 15:35:03 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[30-Oct-2020 15:35:03 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/myProfile.php on line 5
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 152
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 152
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 162
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 192
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 192
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 196
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 200
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 204
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 208
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 238
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 276
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 282
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 290
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 301
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 309
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 321
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 322
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 323
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 336
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 336
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 342
+[17-Nov-2020 09:23:15 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 350
+[17-Nov-2020 21:23:51 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/myProfile.php on line 5
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 152
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 152
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 162
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 192
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 192
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 196
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 200
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 204
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 208
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 238
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 276
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 282
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 290
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 301
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 309
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 321
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 322
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 323
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 336
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 336
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 342
+[18-Nov-2020 23:52:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 350
+[21-Nov-2020 15:23:49 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[21-Nov-2020 15:23:49 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[21-Nov-2020 15:26:25 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[21-Nov-2020 15:26:25 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 6
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 7
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 399
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 421
+[24-Nov-2020 00:43:31 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1008
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[24-Nov-2020 00:43:37 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[24-Nov-2020 00:43:49 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Trying to get property of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[24-Nov-2020 00:43:55 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[24-Nov-2020 12:14:58 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[30-Nov-2020 05:31:39 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[30-Nov-2020 05:35:37 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[30-Nov-2020 05:35:45 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[02-Dec-2020 07:25:28 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[02-Dec-2020 07:26:44 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[02-Dec-2020 07:28:06 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[02-Dec-2020 07:28:38 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[02-Dec-2020 07:38:53 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[05-Dec-2020 00:02:38 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[05-Dec-2020 01:07:19 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[05-Dec-2020 01:07:33 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[05-Dec-2020 01:07:56 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 45
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Undefined variable: _SESSION in /home3/gaadixug/public_html/super_user/includes/header.php on line 68
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 87
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 158
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 181
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 188
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[05-Dec-2020 01:09:29 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 44
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 67
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[05-Dec-2020 05:09:48 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 44
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 67
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/viewExpiredSecDetails.php on line 7
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/viewExpiredSecDetails.php on line 8
+[09-Dec-2020 02:24:58 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 543
+[09-Dec-2020 13:56:37 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[09-Dec-2020 02:26:50 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 5
+[09-Dec-2020 02:26:50 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 147
+[09-Dec-2020 02:28:50 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 5
+[09-Dec-2020 02:28:50 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[09-Dec-2020 02:29:13 America/Chicago] PHP Notice:  Undefined index: sec in /home3/gaadixug/public_html/super_user/viewActiveSecDetails.php on line 5
+[09-Dec-2020 02:29:13 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[09-Dec-2020 14:16:25 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[09-Dec-2020 14:17:31 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[10-Dec-2020 16:38:27 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[10-Dec-2020 16:38:27 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[10-Dec-2020 16:38:49 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[10-Dec-2020 16:38:49 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[10-Jan-2021 14:55:14 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[10-Jan-2021 14:55:24 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[12-Jan-2021 15:46:12 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[12-Jan-2021 15:46:12 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[12-Jan-2021 15:46:29 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[12-Jan-2021 15:46:29 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[12-Jan-2021 15:46:54 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[12-Jan-2021 15:46:54 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[12-Jan-2021 17:24:58 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[12-Jan-2021 17:24:58 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:00:00 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:00:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:00:43 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:02:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:02:54 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[12-Jan-2021 06:03:10 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 44
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 67
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/viewExpiredSecDetails.php on line 7
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/viewExpiredSecDetails.php on line 8
+[13-Jan-2021 00:36:06 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 543
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 44
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 67
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/viewExpiredSecDetails.php on line 7
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/viewExpiredSecDetails.php on line 8
+[14-Jan-2021 01:42:44 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 543
+[15-Apr-2021 11:36:15 America/Chicago] PHP Notice:  Undefined variable: v_data in /home3/gaadixug/public_html/super_user/getExpVehicleDetails.php on line 255
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[17-Apr-2021 03:09:25 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 44
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 67
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/myProfile.php on line 4
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 133
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 133
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 141
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 170
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 170
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 174
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 178
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 182
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 186
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 216
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 254
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 260
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 268
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 279
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 287
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 299
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 300
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 301
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 314
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 314
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 320
+[17-Apr-2021 04:45:36 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/myProfile.php on line 328
+[30-Apr-2021 10:19:20 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[11-May-2021 22:51:40 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[11-May-2021 22:51:40 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[11-May-2021 12:25:24 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[11-May-2021 12:25:32 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[28-May-2021 00:50:02 America/Chicago] PHP Notice:  Undefined variable: data in /home3/gaadixug/public_html/super_user/includes/function.php on line 509
+[01-Jun-2021 13:03:20 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[19-Aug-2021 22:00:30 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[19-Aug-2021 22:00:30 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[18-Oct-2021 20:29:47 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[26-Oct-2021 17:48:21 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[26-Oct-2021 17:48:21 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[29-Oct-2021 14:36:43 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[29-Oct-2021 14:36:43 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[29-Oct-2021 14:37:13 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[29-Oct-2021 14:37:13 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[11-Nov-2021 15:41:19 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[11-Nov-2021 15:41:19 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[25-Dec-2021 02:15:50 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[25-Dec-2021 02:15:57 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[30-Dec-2021 13:07:53 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 44
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/includes/header.php on line 67
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 227
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Undefined index: user_prev in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 95
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Undefined index: uid in /home3/gaadixug/public_html/super_user/dashboard.php on line 12
+[18-Jan-2022 22:11:27 America/Chicago] PHP Notice:  Undefined index: customer in /home3/gaadixug/public_html/super_user/dashboard.php on line 13
+[25-Feb-2022 16:19:08 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[10-Oct-2022 21:31:41 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[10-Oct-2022 21:31:41 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:12:22 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:13:47 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:14:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:14:31 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:14:55 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:15:01 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:15:21 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 11:15:42 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[10-Oct-2022 12:56:37 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 421
+[10-Oct-2022 12:56:37 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:56:37 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 12:56:37 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:56:37 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 12:56:37 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:56:37 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 23:27:20 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[10-Oct-2022 12:57:27 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 421
+[10-Oct-2022 12:57:27 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:57:27 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 12:57:27 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:57:27 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 12:57:27 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:57:27 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 12:57:52 America/Chicago] PHP Notice:  Trying to get property 'num_rows' of non-object in /home3/gaadixug/public_html/super_user/includes/function.php on line 421
+[10-Oct-2022 12:57:52 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:57:52 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 12:57:52 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:57:52 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[10-Oct-2022 12:57:52 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1017
+[10-Oct-2022 12:57:52 America/Chicago] PHP Notice:  Trying to access array offset on value of type null in /home3/gaadixug/public_html/super_user/getVehicleDetails.php on line 1018
+[30-Oct-2022 18:19:29 Asia/Kolkata] PHP Notice:  Undefined index: error in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 533
+[30-Oct-2022 18:19:29 Asia/Kolkata] PHP Notice:  Undefined index: success in /home3/gaadixug/public_html/super_user/viewVehicleDetails.php on line 539
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[04-Nov-2022 09:08:30 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 86
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 157
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 180
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/header.php on line 187
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 7
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32
+[04-Nov-2022 09:11:13 America/Chicago] PHP Notice:  Uninitialized string offset: 0 in /home3/gaadixug/public_html/super_user/includes/sidebar.php on line 32

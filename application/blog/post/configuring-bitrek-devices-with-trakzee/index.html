@@ -1,0 +1,484 @@
+<!DOCTYPE html><!--[if lt IE 10]> <html  lang="en" class="iex"> <![endif]-->
+<!--[if (gt IE 10)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+
+<!-- Mirrored from www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Apr 2020 08:01:16 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    		<title>Configuring BITREK devices with Trakzee</title>
+		<meta name="description" content="We are pleased to announce that one of the leading electronics manufacturing companies of Ukraine, BITREK has teamed up with Uffizio"/>
+		<meta name="keywords" content="technological partner"/>
+	<META NAME="robots" CONTENT="noindex,nofollow" >	    <meta property="og:title" content="Configuring BITREK devices with Trakzee" />
+	    <meta property="og:url" content="https://www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/" />
+	    <meta property="og:type" content="website" />
+	    <meta property="og:description" content="We are pleased to announce that one of the leading electronics manufacturing companies of Ukraine, BITREK has teamed up with Uffizio" />
+	    <meta property="og:image" content="https://www.uffizio.com/blog/content/public/upload/bitrek_1_o.png?v=12.12" />
+	    <meta property="twitter:title" content="Configuring BITREK devices with Trakzee" />
+	    <meta property="twitter:url" content="https://www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/" />
+	    <meta property="twitter:type" content="website" />
+	    <meta property="twitter:description" content="We are pleased to announce that one of the leading electronics manufacturing companies of Ukraine, BITREK has teamed up with Uffizio" />
+	    <meta property="twitter:image" content="https://www.uffizio.com/blog/content/public/upload/bitrek_1_o.png?v=12.12" />
+
+<link rel="canonical" href="https://www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/">
+<link rel="apple-touch-icon" sizes="180x180" href="https://d14shz2u67ig8m.cloudfront.net/images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://d14shz2u67ig8m.cloudfront.net/images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://d14shz2u67ig8m.cloudfront.net/images/favicon/favicon-16x16.png">
+<link rel="manifest" href="https://d14shz2u67ig8m.cloudfront.net/images/favicon/site.webmanifest">
+<link rel="mask-icon" href="https://d14shz2u67ig8m.cloudfront.net/images/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+    <script async>  window.addEventListener('DOMContentLoaded', function() {
+        setTimeout(function(){
+(function(w,d,s){var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s);j.async=true;j.src='https://www.googletagmanager.com/gtag/js?id=UA-124610707-1';f.parentNode.insertBefore(j,f);
+            })(window,document,'script');
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-124610707-1');
+
+},5000)});</script>
+	<script type="application/ld+json">
+ { "@context": "https://schema.org",
+ "@type": "Organization",
+ "name": "Uffizio",
+ "url": "https://www.uffizio.com/",
+ "logo": "https://dituonbutq9k6.cloudfront.net/image/main_logo_black.svg",
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "A27-29, Pramukh Sannidhya, Abrama-Dharampur Rd, Valsad, Gujarat 396001",
+ "addressLocality": "Valsad",
+ "addressRegion": "Gujarat",
+ "postalCode": "396001",
+ "addressCountry": "India"
+ },
+ "sameAs": [ 
+ "https://www.facebook.com/uffizio/",
+ "https://www.linkedin.com/company/13194805/admin/"
+ ]}
+</script>
+    <script src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/bootstrap/css/bootstrap.css">
+    <script src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/script.js"></script>
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/style.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/css/content-box.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/css/image-box.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/css/animations.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/css/components.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/flexslider/flexslider.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/magnific-popup.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/php/contact-form.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/social.stream.css">
+    <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/css/skin.css?v=1">
+</head>
+<body>
+    <div id="preloader"></div>
+	<!-- Menu -->
+    <!--
+<header class="fixed-top scroll-change" data-menu-anima="fade-bottom">-->
+<header class="fixed-top scroll-change" data-menu-anima="fade-bottom">
+<div class="navbar navbar-default mega-menu-fullwidth navbar-fixed-top" role="navigation">
+      
+      <div class="navbar navbar-main">
+                <div class="container">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <a class="navbar-brand" href="https://www.uffizio.com/">
+                            <img class="logo-default" src="https://d14shz2u67ig8m.cloudfront.net/images/Logo-blank.svg" alt="logo" />
+                            <img class="logo-retina" src="https://d14shz2u67ig8m.cloudfront.net/images/Logo.svg" alt="logo" />
+                        </a>
+                    </div>
+					<div class="collapse navbar-collapse">
+                        <div class="nav navbar-nav navbar-right">
+                            <ul class="nav navbar-nav">
+                                            <li class="dropdown ">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Discover Uffizio                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu multi-level">
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/about" >About US</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/blog/" >Blog</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/career" >Career</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/blog/category/case-study/" >Case Study</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/contact" >Contact Us</a></li>
+                                                            
+                            </ul>
+                            </li>
+                                             <li class="dropdown ">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Products                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu multi-level">
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/fleet-management-software" >Trakzee</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/school-bus-management-software" >SmartBus</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/task-management-software" >TaskEye</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/consignment-tracking-software" >LogyTrak</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/vehicle-on-rent" >TrakRide</a></li>
+                                                            
+                            </ul>
+                            </li>
+                 <li><a href='https://www.uffizio.com/business-model'>Business Model</a></li><li><a href='https://www.uffizio.com/gps-tracker'>GPS Tracker</a></li>                            <li class="dropdown ">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Help                            <span class="caret"></span></a>
+                            <ul class="dropdown-menu multi-level">
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/how-to" >How To</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/faq" >FAQ</a></li>
+                                                        	<li><a class="d-flex " href="https://support.uffizio.com/" >Contact Helpdesk</a></li>
+                                                        	<li><a class="d-flex " href="https://www.uffizio.com/downloads" >Downloads</a></li>
+                                                            
+                            </ul>
+                            </li>
+                 </ul>
+
+    <div class="livedemo-btn-container whatsnew-btn"><a href="https://www.uffizio.com/whatsnew" >What's New</a></div>
+
+<div class="livedemo-btn-container"><a href="https://www.uffizio.com/demo" onClick="onDemoActionAnalytics()" >Demo</a></div>
+				</div>
+			</div>
+        </div>
+      </div>
+</div>
+</header>
+
+
+
+	 
+<div class="section-empty section-item">
+        <div class="container content">
+            <div class="row">
+                <div class="col-md-8 col-sm-12">
+					<h1 class="text-xl blog-post-title h4">Configuring BITREK devices with Trakzee</h1>
+					<p>We are pleased to announce that one of the leading electronics manufacturing companies of Ukraine, BITREK has teamed up with Uffizio</p>
+					<hr class="space xs"/>
+							<div class="row vertical-row">
+								<div class="col-md-7">
+									<div class="tag-row">
+										<span><i class="fa fa-calendar"></i> <a href="#">05 March, 2019</a></span>
+										<span><i class="fa fa-bookmark"></i> <a href="#">Technological Partner</a></span>
+									</div>
+								</div>
+								<div class="col-md-5 text-right text-left-sm">
+									<div class="btn-group social-group">
+										<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/" data-social="share-facebook" data-toggle="tooltip" data-placement="top" title="Facebook"><i class="fa fa-facebook text-s circle"></i></a>
+										<a target="_blank" href="https://twitter.com/intent/tweet?url=https://www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/" data-social="share-twitter" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="fa fa-twitter text-s circle"></i></a>
+										<a target="_blank" href="https://api.whatsapp.com/send?text=https://www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/" data-social="share-whatsapp" data-toggle="tooltip" data-placement="top" title="Whatsapp"><i class="fa fa-whatsapp text-s circle"></i></a>
+										<a target="_blank" href="https://www.linkedin.com/sharing/share-offsite/?url=https://www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/" data-social="share-linkedin" data-toggle="tooltip" data-placement="top" title="Linkedin"><i class="fa fa-linkedin text-s circle"></i></a>
+									</div>
+								</div>
+							</div>
+							<hr class="space s" />
+							<div class="collapse-box" data-height="800">
+						<div class="panel blog-post-container"><p><strong><img src="https://www.uffizio.com/blog/content/public/upload/bitrek_2_o.png" alt="undefined" class="fr-fic fr-dii"></strong></p><p style="text-align: justify;"><strong>&ldquo;<pwa class="pwa-mark pwa-mark-done" data-pwa-category="style" data-pwa-dictionary-word="We are pleased to announce that one" data-pwa-heavy="false" data-pwa-hint="Readability may be enhanced by using: One" data-pwa-id="pwa-2938E2509890783E9AA718B3AFE09250" data-pwa-rule-id="READABILITY_1582" data-pwa-suggestions="One">We are pleased to announce that one</pwa> of the leading electronics manufacturing companies of Ukraine, BITREK has teamed up with Uffizio&rdquo;</strong></p><p style="text-align: justify;">Compliments from
+Uffizio!</p><p style="text-align: justify;">We believe in the motto that businesses are better together. For a company to boost in terms of profit and quality, it is important to leverage strategic partnerships and collaborations. Uffizio has partnered up with various companies and has been successfully serving as their software partner for years.</p><p style="text-align: justify;">BITREK is one of our newest partners and we look forward to join hands in creating services and solutions to achieve excellent customer satisfaction and long term profits.</p><h2 style="text-align: justify;"><strong>About BITREK</strong></h2><p style="text-align: justify;">This ISO 9001 certified production company was established in the year 2010. In such a short span of time, it has become a pioneer in the field of development and production of equipment for GPS-monitoring and control of transport. It is the largest seller of equipments for the control transport in Ukraine.</p><p style="text-align: justify;">With the potential to develop over 10,000 devices per month, BITREK has become the leading manufacturer of vehicle monitoring equipment in Ukraine. The extensive arrays of devices made by BITREK are cost-friendly as well as highly reliable.</p><h3 style="text-align: justify;">Products of BITREK</h3><p style="text-align: justify;">BITREK manufactures a wide range of products that are utilized for vehicle control, fuel control, cargo control, weather station, etc. Some of which are BI 520 TREK, BI 810/820 CONNECT, BITREK CANREADER, METEOTREK, BI 910 TREK and many more.</p><p style="text-align: justify;">It is our privilege to inform our readers that the tracking software platforms of Uffizio are highly compatible with all the products of BITREK.</p><h3 style="text-align: justify;">Reasons to team up with Uffizio</h3><p style="text-align: justify;">&bull; Join hands with one of the leading vendors of White Label GPS Tracking Software<br>&bull; Excellent customization services<br>&bull; Multilingual support<br>&bull; Flexibility in terms of customization<br>&bull; User-friendly and compatible software systems</p></div>
+						<div class="text-center">
+								<a class="collapse-button" data-button-open-text="Hide all" data-button-close-text="Read all">
+									<b>Read all</b> <span class="caret"></span>
+								</a>
+						</div>
+				</div>
+             </div>
+             <div class="col-md-4 boxed-inverse col-sm-12 shadow-1">
+					<!--<div class="input-group search-blog list-blog">
+    <input type="text" class="form-control" placeholder="Search for...">
+    <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+    </span>
+</div>-->
+<hr class="space s"/>
+<div class="list-group list-blog">
+    <p class="list-group-item active">Categories</p>
+	<a href="https://www.uffizio.com/blog/" class="list-group-item"><div class="btn-block cate_colorbox_0" ></div><div class="btn-header">See All</div></a><a href="https://www.uffizio.com/blog/category/gps/" class="list-group-item">GPS Software</a><a href="https://www.uffizio.com/blog/category/life-at-uffizio/" class="list-group-item">Life at Uffizio</a><a href="https://www.uffizio.com/blog/category/field-employee-monitoring/" class="list-group-item">Field Employee Monitoring</a><a href="https://www.uffizio.com/blog/category/uffizio-apps/" class="list-group-item">Uffizio Apps</a><a href="https://www.uffizio.com/blog/category/telematics/" class="list-group-item">Telematics</a><a href="https://www.uffizio.com/blog/category/school-bus-management/" class="list-group-item">School Bus Management</a><a href="https://www.uffizio.com/blog/category/fleet-management/" class="list-group-item">Fleet Management</a><a href="https://www.uffizio.com/blog/category/consignment/" class="list-group-item">Consignment</a><a href="https://www.uffizio.com/blog/category/gps-tracker/" class="list-group-item">GPS Tracker</a><a href="https://www.uffizio.com/blog/category/hosting/" class="list-group-item">Hosting</a><a href="https://www.uffizio.com/blog/category/technological-partner/" class="list-group-item">Technological Partner</a><a href="https://www.uffizio.com/blog/category/case-study/" class="list-group-item">Case Study</a></div><div class="list-group latest-post-list list-blog">
+	<p class="list-group-item active">Latest posts</p>
+		<div class="list-group-item" onclick="redirect('https://www.uffizio.com/blog/post/a-simple-way-to-manage-your-fleet-expense/')">
+	    <div class="row">
+		<div class="col-md-4">
+		    <a class="img-box circle">
+		        <img class="lazy" data-src="/blog/content/public/upload/fleetexpensesmanagement_1_thumb.jpg" alt="">
+		    </a>
+		</div>
+		<div class="col-md-8">
+		    <a href="#">
+		        <h5>A simple way to manage your fleet expense</h5>
+		    </a>
+		    <div class="tag-row icon-row"><span><i class="fa fa-calendar"></i>28 March 2020</span></div>
+		</div>
+	    </div>
+	</div>
+		<div class="list-group-item" onclick="redirect('https://www.uffizio.com/blog/post/what-fleet-managers-can-do-to-safeguard-their-business-during-covid-19/')">
+	    <div class="row">
+		<div class="col-md-4">
+		    <a class="img-box circle">
+		        <img class="lazy" data-src="/blog/content/public/upload/main-image-(1)_2_thumb.png" alt="">
+		    </a>
+		</div>
+		<div class="col-md-8">
+		    <a href="#">
+		        <h5>What fleet managers can do to safeguard their business during COVID-19?</h5>
+		    </a>
+		    <div class="tag-row icon-row"><span><i class="fa fa-calendar"></i>27 March 2020</span></div>
+		</div>
+	    </div>
+	</div>
+		<div class="list-group-item" onclick="redirect('https://www.uffizio.com/blog/post/pet-tracking-software-and-monitoring-solution/')">
+	    <div class="row">
+		<div class="col-md-4">
+		    <a class="img-box circle">
+		        <img class="lazy" data-src="/blog/content/public/upload/pettracking_4_thumb.jpg" alt="">
+		    </a>
+		</div>
+		<div class="col-md-8">
+		    <a href="#">
+		        <h5>Pet Tracking Software and Monitoring Solution</h5>
+		    </a>
+		    <div class="tag-row icon-row"><span><i class="fa fa-calendar"></i>05 March 2020</span></div>
+		</div>
+	    </div>
+	</div>
+	</div>
+
+             </div>
+         </div>
+	<hr class="space"/>
+	<hr class="space"/>
+	
+	<div class="row text-center">
+		<h2 class="text-center">Related Post</h2>
+		<hr class="space"/>
+	</div>
+	<div class="row related-box-container flex-row-column">
+								<div class="col-md-4">
+                    <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                        <div class="block-infos">
+                            <div class="block-data">
+                                <p class="bd-day">31 January 2020</p>
+                            </div>
+                        </div>
+                        <a class="img-box"><img class="anima" src="https://www.uffizio.com/blog/content/public/upload/uffiziopartnerswithteltonica_2_thumb.png" alt="" /> </a>
+                        <div class="advs-box-content">
+                            <div class="tag-row">
+                                <span><i class="fa fa-bookmark"></i> <a href="#">Technological Partner</a></span>
+                            </div>
+                            <p class="niche-box-content">
+                               Teltonika partnered with Uffizio to deliver Unique Solutions                            </p>
+                            <a class="btn btn-sm" href="#" onclick="redirect('https://www.uffizio.com/blog/post/teltonika-partnered-with-uffizio-to-deliver-unique-solutions/')">Read more</a>
+                        </div>
+                    </div>
+                </div>
+				
+					<div class="col-md-4">
+                    <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                        <div class="block-infos">
+                            <div class="block-data">
+                                <p class="bd-day">02 July 2019</p>
+                            </div>
+                        </div>
+                        <a class="img-box"><img class="anima" src="https://www.uffizio.com/blog/content/public/upload/neomatica_7_thumb.png" alt="" /> </a>
+                        <div class="advs-box-content">
+                            <div class="tag-row">
+                                <span><i class="fa fa-bookmark"></i> <a href="#">Technological Partner</a></span>
+                            </div>
+                            <p class="niche-box-content">
+                               Uffizio configures Neomatica devices                             </p>
+                            <a class="btn btn-sm" href="#" onclick="redirect('https://www.uffizio.com/blog/post/uffizio-configures-neomatica-devices/')">Read more</a>
+                        </div>
+                    </div>
+                </div>
+				
+					<div class="col-md-4">
+                    <div class="advs-box advs-box-top-icon-img niche-box-post boxed-inverse" data-anima="scale-rotate" data-trigger="hover">
+                        <div class="block-infos">
+                            <div class="block-data">
+                                <p class="bd-day">13 May 2019</p>
+                            </div>
+                        </div>
+                        <a class="img-box"><img class="anima" src="https://www.uffizio.com/blog/content/public/upload/partnerimagetwing_1_thumb.jpg" alt="" /> </a>
+                        <div class="advs-box-content">
+                            <div class="tag-row">
+                                <span><i class="fa fa-bookmark"></i> <a href="#">Technological Partner</a></span>
+                            </div>
+                            <p class="niche-box-content">
+                               Uffizio teams up with TWIG                            </p>
+                            <a class="btn btn-sm" href="#" onclick="redirect('https://www.uffizio.com/blog/post/uffizio-teams-up-with-twig/')">Read more</a>
+                        </div>
+                    </div>
+                </div>
+				
+					
+				
+				
+	</div>	
+			
+	</div>
+</div>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  var lazyloadImages = document.querySelectorAll("img.lazy");    
+  var lazyloadThrottleTimeout;
+  
+  function lazyload () {
+    if(lazyloadThrottleTimeout) {
+      clearTimeout(lazyloadThrottleTimeout);
+    }    
+    
+    lazyloadThrottleTimeout = setTimeout(function() {
+        var scrollTop = window.pageYOffset;
+        lazyloadImages.forEach(function(img) {
+            if(img.offsetTop < (window.innerHeight + scrollTop)) {
+              img.src = img.dataset.src;
+              img.classList.remove('lazy');
+            }
+        });
+        if(lazyloadImages.length == 0) { 
+          document.removeEventListener("scroll", lazyload);
+          window.removeEventListener("resize", lazyload);
+          window.removeEventListener("orientationChange", lazyload);
+        }
+    }, 20);
+  }
+  
+  document.addEventListener("scroll", lazyload);
+  window.addEventListener("resize", lazyload);
+  window.addEventListener("orientationChange", lazyload);
+ // lazyload();
+
+});
+</script>
+
+<style>
+</style>	
+<script>
+	function redirect(url){
+		window.location.href = url;
+	}
+</script>
+	<script src="https://www.uffizio.com/blog/themes/echo/js/script.js"></script>
+    
+
+    <footer class="footer-base">
+        <div class="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-9 footer-left text-left">
+                        <div class="row">
+                                                        <div class="col-md-4">
+                                <h3>Quick Links</h3>
+				                <hr class="space s" />
+                                <ul class="ul-dots text-s">
+                                	<li><a href="https://www.uffizio.com/">Home</a></li>
+                					<li><a href="https://www.uffizio.com/about">About</a></li>
+                					<li><a href="https://www.uffizio.com/business-model">Business Model</a></li>
+                					<li><a href="https://www.uffizio.com/career">Career</a></li>
+                					<li><a href="https://www.uffizio.com/gps-tracker">GPS Tracker</a></li>
+                					<li><a href="https://www.uffizio.com/gps-tracking-system">GPS Tracking System</a></li>
+                					<li><a href="https://www.uffizio.com/contact">Contact</a></li>
+                					<li><a href="https://www.uffizio.com/blog/category/case-study/">Case Study</a></li>
+                                </ul>
+                                <hr class="space m" />
+                                <h3>Products</h3>
+				                <hr class="space s" />
+                                <ul class="ul-dots text-s">
+                                    <li><a href="https://www.uffizio.com/fleet-management-software">Trakzee</a></li>
+                					<li><a href="https://www.uffizio.com/school-bus-management-software">SmartBus</a></li>
+                					<li><a href="https://www.uffizio.com/task-management-software">TaskEye</a></li>
+                					<li><a href="https://www.uffizio.com/consignment-tracking-software">LogyTrak</a></li>
+                					<li><a href="https://www.uffizio.com/vehicle-on-rent">TrakRide</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                <h3>Fleet Management Solutions</h3>
+				                <hr class="space s" />
+                                <ul class="ul-dots text-s">
+                                    <li><a  href="https://www.uffizio.com/fleet-management-software/fuel-management" >Fuel Management</a></li>
+            				        <li><a  href="https://www.uffizio.com/fleet-management-software/tire-management" >Tire Management</a></li>
+            				        <li><a  href="https://www.uffizio.com/fleet-management-software/tire-pressure-monitoring-system" >Tire Pressure Monitoring</a></li>
+            				        <li><a  href="https://www.uffizio.com/fleet-management-software/fleet-maintenance-reminder">Fleet Maintenance Reminder</a></li>
+            				        <li><a  href="https://www.uffizio.com/fleet-management-software/on-board-diagnostics">On-Board Diagnostics</a></li>
+            				        <li><a  href="https://www.uffizio.com/fleet-management-software/expense-management">Expense Management</a></li>
+            				        <li><a  href="https://www.uffizio.com/fleet-management-software/temperature-monitoring">Temperature Monitoring</a></li>
+            				        <li><a  href="https://www.uffizio.com/fleet-management-software/eco-driving" >Eco-driving</a></li>
+                                    <li><a  href="https://www.uffizio.com/fleet-management-software/video-telematics" >Video Telematics</a></li>
+                                    <li><a  href="https://www.uffizio.com/fleet-management-software/advanced-driver-assistance-system" >ADAS</a></li>
+                                    <li><a  href="https://www.uffizio.com/fleet-management-software/digital-tachograph">Digital Tachograph</a></li>
+                                    <li><a  href="https://www.uffizio.com/fleet-management-software/driver-performance-analysis">Driver Performance Analysis</a></li>
+                                    <li><a href="https://www.uffizio.com/fleet-management-software/parking-safety-mode" >Parking Safety Mode</a></li>
+                                    <li><a href="https://www.uffizio.com/fleet-management-software/fleet-immobilizing-system" >Fleet Immobilize</a></li>
+                                    <li><a href="https://www.uffizio.com/fleet-management-software/driver-vehicle-inspection-report" >DVIR</a></li>
+                                    <li><a href="https://www.uffizio.com/fleet-management-software/sos-panic-button">SOS Panic Button</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4">
+                                
+                                <h3>Industries</h3>
+				                <hr class="space s" />
+                                <ul class="ul-dots text-s">
+                                    <li><a href="https://www.uffizio.com/blog/post/108-ambulance-service/">Ambulance</a></li>
+                					<li><a href="https://www.uffizio.com/blog/post/keymen-management/">Railways</a></li>
+                					<li><a href="https://www.uffizio.com/gps-tracking-system#construction">Construction</a></li>
+                					<li><a href="https://www.uffizio.com/blog/post/logytrak-consignment-safety/">Logistics and Supply Chain</a></li>
+                					<li><a href="https://www.uffizio.com/blog/post/waste-management/">Waste Management</a></li>
+                					<li><a href="https://www.uffizio.com/gps-tracking-system#travel-and-tourism">Travel and Tourism</a></li>
+                					<li><a href="https://www.uffizio.com/blog/post/pet-tracking-software-and-monitoring-solution/">Animal Tracking</a></li>
+                					<li><a href="https://www.uffizio.com/blog/post/field-employee-monitoring-with-taskeye/">Employee Task Management</a></li>
+                					<li><a href="https://www.uffizio.com/blog/post/aqua-track/">Water Supply</a></li>
+                					<li><a href="https://www.uffizio.com/gps-tracking-system#boat-tracking">Boat Tracking</a></li>
+                                </ul>
+                                
+                                
+                            </div>
+                            
+                                                    </div>
+                    </div>
+                    <div class="col-md-3 footer-right text-left">
+                        <img width="100" class="lazy" data-src="https://d14shz2u67ig8m.cloudfront.net/images/Logo.svg" alt="" />
+                        <hr class="space s" />
+                        <a href="https://goo.gl/maps/rB8Ew9Vw5ny" rel="noreferrer" target="_blank" class="text-s">A-27-29 Pramukh Sannidhya, 
+                                        Abrama, Dharampur Road,
+                                        Valsad - 396001
+                                        Gujarat, INDIA</a>
+			<hr class="space xs" />
+                        <div class="tag-row text-s">
+                            <span>info@uffizio.in</span>
+                            <span>+91-72858-55104</span>
+                        </div>
+                        <hr class="space xs" />
+                        <div class="btn-group social-group btn-group-icons">
+                            <a target="_blank" href="https://www.facebook.com/uffizio/" rel="noreferrer" >
+                                <i class="fa fa-facebook text-xs circle"></i>
+                            </a>
+                            <a target="_blank" href="https://twitter.com/Uffizio1" rel="noreferrer" >
+                                <i class="fa fa-twitter text-xs circle"></i>
+                            </a>
+                            <a target="_blank" href="https://www.linkedin.com/company/uffizio-india-software/" rel="noreferrer" >
+                                <i class="fa fa-linkedin text-xs circle"></i>
+                            </a>
+			    <a target="_blank" href="https://www.youtube.com/channel/UCjZtoNet7-Iyo0PoNO035_g" rel="noreferrer" >
+                                <i class="fa fa-youtube text-xs circle"></i>
+                            </a>
+                        </div>
+			
+                    </div>
+                </div>
+            </div>
+            <div class="row copy-row">
+                <div class="col-md-12 copy-text">
+                    © 2020 Uffizio India Software Consultants Pvt Ltd
+                </div>
+            </div>
+        </div>
+	
+        <link rel="stylesheet" href="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/font-awesome/css/font-awesome.css">
+        <script async src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/bootstrap/js/bootstrap.min.js" defer="defer"></script>
+        <script src="https://d14shz2u67ig8m.cloudfront.net/js/thiradparty-plugin.js?v=0.2" defer="defer"></script>
+        <script async src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/jquery.progress-counter.js"></script>
+	<script async src='https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/jquery.magnific-popup.min.js'></script>
+		<script async src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/isotope.min.js"></script>
+	<script async src="https://www.uffizio.com/HTWF/scripts/php/contact-form.js?v=4"></script>        
+	<script defer="defer" src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/jquery.tab-accordion.js?v=1"></script>
+        <script async src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/bootstrap/js/bootstrap.popover.min.js"></script>
+        <script async src="https://d14shz2u67ig8m.cloudfront.net/HTWF/scripts/jquery.magnific-popup.min.js"></script>
+		
+
+    </footer>
+	<script src="https://code.jivosite.com/script/widget/Jp5YavQbRC" async defer="defer"></script> 
+</body>
+
+<!-- Mirrored from www.uffizio.com/blog/post/configuring-bitrek-devices-with-trakzee/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 22 Apr 2020 08:01:16 GMT -->
+</html>

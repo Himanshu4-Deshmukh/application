@@ -1,0 +1,25 @@
+[20-Aug-2023 08:40:52 America/Chicago] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home3/gaadixug/vahanfin.com/application/admin/conn.php:13
+Stack trace:
+#0 /home3/gaadixug/vahanfin.com/application/admin/conn.php(13): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'vahanfin')
+#1 /home3/gaadixug/vahanfin.com/application/admin/index.php(2): include('/home3/gaadixug...')
+#2 {main}
+  thrown in /home3/gaadixug/vahanfin.com/application/admin/conn.php on line 13
+[31-Aug-2023 12:21:41 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:44 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:45 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:48 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:50 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:50 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:51 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:52 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:52 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:52 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:52 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:53 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:53 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:21:57 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[31-Aug-2023 12:44:08 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "style", expecting "," or ";" in /home3/gaadixug/vahanfin.com/application/admin/vehicleDetails.php on line 1044
+[31-Aug-2023 13:01:18 America/Chicago] PHP Parse error:  syntax error, unexpected identifier "style", expecting "," or ";" in /home3/gaadixug/vahanfin.com/application/admin/vehicleDetails.php on line 1109
+[01-Sep-2023 00:54:43 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[01-Sep-2023 00:54:44 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18
+[01-Sep-2023 00:54:51 America/Chicago] PHP Warning:  Undefined variable $data in /home3/gaadixug/vahanfin.com/application/admin/fetch.php on line 18

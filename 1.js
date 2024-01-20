@@ -1,0 +1,9 @@
+function call_api(){return jQuery.ajax({url:'/webapi/user_details/',type:'GET'})}
+async function fetch_user_details(){try{response_data=await call_api();is_user_logged_in=!0}catch(err){is_user_logged_in=!1;response_data=err.responseText}
+return{is_user_logged_in,response_data}}
+function set_mojo_user(is_user_logged_in,response_data){var user_id=null;if(sessionStorage.MojoUser){window.MojoUser=JSON.parse(sessionStorage.MojoUser);user_id=window.MojoUser.id}else{window.MojoUser={id:null,email:null,username:null,phone:null,sign_up_time:null,merchant_sub_category:null,merchant_super_category:null,delay_mixpanel_identify:null,full_name:null,display_name:null,kyc_status:null,convenience_fee_status:null,user_level:null}}
+if(is_user_logged_in&&window.location.pathname!=='/'&&!user_id){var{id:user_id=null,email=null,username=null,convenience_fee_enabled=null,date_joined:sign_up_time=null,profile:{name:full_name=null,phone=null,subcategory_name:merchant_sub_category=null,supercategory_name:merchant_super_category=null,user_level,kyc:{status:kyc_status=null,}={},}={},delay_mixpanel_identify=null,}=response_data;window.MojoUser={id:user_id,email,username,phone,sign_up_time,merchant_sub_category,merchant_super_category,delay_mixpanel_identify,full_name,display_name:full_name||username,kyc_status,convenience_fee_status:(convenience_fee_enabled===null?null:convenience_fee_enabled?'Enable':'Disabled'),user_level}}
+sessionStorage.MojoUser=JSON.stringify(window.MojoUser)}
+function getURLParameter(name){name=name.replace(/[[]/,'\\[').replace(/[\]]/,'\\]');var regex=new RegExp('[\\?&]'+name+'=([^&#]*)'),results=regex.exec(location.search);return results===null?'':decodeURIComponent(results[1].replace(/\+/g,' '))}
+$(document).ready(async function(){var{is_user_logged_in,response_data}=await fetch_user_details();if(is_user_logged_in&&window.location.pathname==='/'){window.location.href='/dashboard'}
+set_mojo_user(is_user_logged_in,response_data)})
