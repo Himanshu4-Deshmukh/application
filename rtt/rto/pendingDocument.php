@@ -49,7 +49,7 @@ $pendingDocument = getPendingDocument($id);
                         <div class="tipWrap" style="display: inline;">
 
                         </div>
-                        <span class="fill" data-percentage="100" style="background: rgb(80, 143, 244); width: 210.9px; transition: width 2s ease-in-out 0s;"></span>
+                        <span class="fill" data-percentage="100" style="background: rgb(80, 143, 244); width: 100%; transition: width 2s ease-in-out 0s;"></span>
                       </div>
                     </div>
 
@@ -66,9 +66,11 @@ $pendingDocument = getPendingDocument($id);
                       <a href="https://demo.dashboardpack.com/marketing-html/#" class="notification_btn yellow_btn">Track</a>
                       <div id="bar2" class="barfiller">
                         <div class="tipWrap" style="display: inline;">
-                          <span class="tip" style="left: 121.1px; transition: left 2.5s ease-in-out 0s;">65%</span>
+                          <span class="tip" style="left: 121.1px; transition: left 2.5s ease-in-out 0s;">
+                          <!-- 65% -->
+                        </span>
                         </div>
-                        <span class="fill" data-percentage="65" style="background: rgb(255, 191, 67); width: 144.3px; transition: width 2.5s ease-in-out 0s;"></span>
+                        <span class="fill" data-percentage="65" style="background: rgb(255, 191, 67); width: 100%; transition: width 2.5s ease-in-out 0s;"></span>
                       </div>
                     </div>
 
@@ -85,9 +87,11 @@ $pendingDocument = getPendingDocument($id);
                       <a href="https://demo.dashboardpack.com/marketing-html/#" class="notification_btn red_btn">Track</a>
                       <div id="bar3" class="barfiller">
                         <div class="tipWrap" style="display: inline;">
-                          <span class="tip" style="left: 143.3px; transition: left 3s ease-in-out 0s;">75%</span>
+                          <span class="tip" style="left: 143.3px; transition: left 3s ease-in-out 0s;">
+                          <!-- 75% -->
+                        </span>
                         </div>
-                        <span class="fill" data-percentage="75" style="background: rgb(255,0,0); width: 166.5px; transition: width 3s ease-in-out 0s;"></span>
+                        <span class="fill" data-percentage="75" style="background: rgb(255,0,0); width: 100%; transition: width 3s ease-in-out 0s;"></span>
                       </div>
                     </div>
 
@@ -104,9 +108,11 @@ $pendingDocument = getPendingDocument($id);
                       <a href="https://demo.dashboardpack.com/marketing-html/#" class="notification_btn green_btn">Track</a>
                       <div id="bar4" class="barfiller">
                         <div class="tipWrap" style="display: inline;">
-                          <span class="tip" style="left: 165.5px; transition: left 3.5s ease-in-out 0s;">85%</span>
+                          <span class="tip" style="left: 165.5px; transition: left 3.5s ease-in-out 0s;">
+                          <!-- 85% -->
+                        </span>
                         </div>
-                        <span class="fill" data-percentage="85" style="background: rgb(0,128,0); width: 188.7px; transition: width 3.5s ease-in-out 0s;"></span>
+                        <span class="fill" data-percentage="85" style="background: rgb(0,128,0); width: 100%; transition: width 3.5s ease-in-out 0s;"></span>
                       </div>
                     </div>
                   </div>

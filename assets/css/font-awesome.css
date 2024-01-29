@@ -5,34 +5,36 @@
 /* FONT PATH
  * -------------------------- */
 @font-face {
-  font-family: 'FontAwesome';
-  src: url('../fonts/fontawesome-webfont.eot?v=4.0.3');
-  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), 
-       url('../fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), 
-       url('../fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), 
-       url('../fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
+  font-family: "FontAwesome";
+  src: url("../fonts/fontawesome-webfont.eot?v=4.0.3");
+  src: url("../fonts/fontawesome-webfont.eot?#iefix&v=4.0.3")
+      format("embedded-opentype"),
+    url("../fonts/fontawesome-webfont.woff?v=4.0.3") format("woff"),
+    url("../fonts/fontawesome-webfont.ttf?v=4.0.3") format("truetype"),
+    url("../fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular")
+      format("svg");
   font-weight: normal;
   font-style: normal;
 }
 .box1 {
-	display: inline-block;
-	width: 15%;
-	padding:5px .5em;
-	background:rgba(238, 238, 238, 0.26);
-	margin: .5em 1% .5em 0;
-	text-align: left;
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-	font-size:13px;
+  display: inline-block;
+  width: 15%;
+  padding: 5px 0.5em;
+  background: rgba(238, 238, 238, 0.26);
+  margin: 0.5em 1% 0.5em 0;
+  text-align: left;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 13px;
 }
 .fontawesome-icon-list a i {
-    margin-right:10px;
-    font-size:25px;
-    color:#757575;
+  margin-right: 10px;
+  font-size: 25px;
+  color: #757575;
 }
-.margin-top{
-	margin-top:20px;
+.margin-top {
+  margin-top: 20px;
 }
 .fa {
   display: inline-block;
@@ -84,9 +86,9 @@
   left: -1.8571428571428572em;
 }
 .fa-border {
-  padding: .2em .25em .15em;
+  padding: 0.2em 0.25em 0.15em;
   border: solid 0.08em #eeeeee;
-  border-radius: .1em;
+  border-radius: 0.1em;
 }
 .pull-right {
   float: right;
@@ -95,10 +97,10 @@
   float: left;
 }
 .fa.pull-left {
-  margin-right: .3em;
+  margin-right: 0.3em;
 }
 .fa.pull-right {
-  margin-left: .3em;
+  margin-left: 0.3em;
 }
 .fa-spin {
   -webkit-animation: spin 2s infinite linear;
@@ -263,8 +265,8 @@
 .fa-power-off:before {
   content: "\f011" !important;
 }
-.pull-left1:before{
-	content:"\f0e7";
+.pull-left1:before {
+  content: "\f0e7";
 }
 .fa-signal:before {
   content: "\f012";
@@ -1114,7 +1116,7 @@
   content: "\f144";
 }
 .fa-ticket:before {
-  content:"\f080";
+  content: "\f080";
 }
 .fa-minus-square:before {
   content: "\f146";
@@ -1360,8 +1362,9 @@
   content: "\f196";
 }
 .fa-bar-chart:before {
-    content: "\f080";
+  content: "\f080";
 }
-.fa-send-o:before, .fa-paper-plane-o:before {
-    content: "\f1d9";
+.fa-send-o:before,
+.fa-paper-plane-o:before {
+  content: "\f1d9";
 }

@@ -78,19 +78,23 @@ $pendingDocument = getPendingDocument($id);
                     <div class="single_quick_activity">
                       <div class="count_content"> <a href="totalRecDocument.php">
                           <p>PROCESSED</p>
-                          <h3><span class="counter"><?php
-                                                    $sql = "SELECT * FROM `track` LEFT JOIN `vehicle` ON track.vehicle_id = vehicle.id  LEFT JOIN  `user` ON vehicle.user_id = user.id WHERE user.id='$id'";
-                                                    $result = mysqli_query($conn, $sql);
-                                                    //number of rows
-                                                    $totalDocRecieved = mysqli_num_rows($result);
-                                                    echo $totalDocRecieved; ?></span> </h3>
+                          <h3>
+                            <span class="counter">
+                              <?php
+                              $sql = "SELECT * FROM `track` LEFT JOIN `vehicle` ON track.vehicle_id = vehicle.id  LEFT JOIN  `user` ON vehicle.user_id = user.id WHERE user.id='$id'";
+                              $result = mysqli_query($conn, $sql);
+                              //number of rows
+                              $totalDocRecieved = mysqli_num_rows($result);
+                              echo $totalDocRecieved; ?>
+                            </span>
+                          </h3>
                       </div>
                       <a href="https://demo.dashboardpack.com/marketing-html/#" class="notification_btn yellow_btn">Track</a>
                       <div id="bar2" class="barfiller">
                         <div class="tipWrap" style="display: inline;">
                           <span class="tip" style="left: 121.1px; transition: left 2.5s ease-in-out 0s;">
-                          <!-- 65% -->
-                        </span>
+                            <!-- 65% -->
+                          </span>
                         </div>
                         <span class="fill" data-percentage="65" style="background: rgb(255, 191, 67); width: 100%; transition: width 2.5s ease-in-out 0s;"></span>
                       </div>
@@ -110,8 +114,8 @@ $pendingDocument = getPendingDocument($id);
                       <div id="bar3" class="barfiller">
                         <div class="tipWrap" style="display: inline;">
                           <span class="tip" style="left: 143.3px; transition: left 3s ease-in-out 0s;">
-                          <!-- 75% -->
-                        </span>
+                            <!-- 75% -->
+                          </span>
                         </div>
                         <span class="fill" data-percentage="75" style="background: rgb(255,0,0); width: 100%; transition: width 3s ease-in-out 0s;"></span>
                       </div>
@@ -132,8 +136,8 @@ $pendingDocument = getPendingDocument($id);
                         <div class="tipWrap" style="display: inline;">
                           <span class="tip" style="left: 165.5px; transition: left 
                           3.5s ease-in-out 0s;">
-                          <!-- 85% -->
-                        </span>
+                            <!-- 85% -->
+                          </span>
                         </div>
                         <span class="fill" data-percentage="85" style="background: rgb(0,128,0); width:100%; transition: width 3.5s ease-in-out 0s;"></span>
                       </div>
@@ -189,6 +193,7 @@ $pendingDocument = getPendingDocument($id);
                         </tr>
                       </thead>
                       <tbody>
+                        
                         <?php
                         if (isset($_POST["search"])) {
                           echo '<script>
@@ -197,7 +202,7 @@ $pendingDocument = getPendingDocument($id);
                         }); 
                         </script>';
                           $s_item = strtolower($_POST["search"]);
-                          $rpp = 8;
+                          $rpp = 5;
                           $sql = "SELECT * FROM display_status WHERE owner_id='$id'";
                           $result = mysqli_query($conn, $sql);
                           $num_rows = mysqli_num_rows($result);
@@ -233,7 +238,7 @@ $pendingDocument = getPendingDocument($id);
                             }
                           }
                         } else {
-                          $rpp = 1;
+                          $rpp = 5;
                           $sql = "SELECT * FROM display_status WHERE owner_id='$id'";
                           $result = mysqli_query($conn, $sql);
                           $num_rows = mysqli_num_rows($result);
@@ -244,7 +249,7 @@ $pendingDocument = getPendingDocument($id);
                             $page = $_GET['page'];
                           }
                           $cur_page = ($page - 1) * $rpp;
-                          $c = ($page * 1) - 0;
+                          $c = ($page * 5) - 4;
                           $sql = "SELECT * FROM display_status WHERE owner_id='$id' LIMIT " . $cur_page . ',' .  $rpp;
                           $result = mysqli_query($conn, $sql);
                           while ($row = mysqli_fetch_assoc($result)) {

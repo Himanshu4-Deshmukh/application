@@ -161,6 +161,7 @@ $pendingDocument = getPendingDocument($id);
                     <table class="no-margin table-bordered table-hover table table-striped">
                       <thead>
                         <tr>
+                          
                           <th class="mob">Sl.No.</th>
                           <th>Vehicle No</th>
                           <th class="mob">Owner Name</th>

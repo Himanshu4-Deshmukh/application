@@ -91,6 +91,18 @@
                     
                   </ul>
                 </li>
+                <li class="treeview">
+                  <a href="#">
+                    <i class="fa fa-crosshairs"></i> <span>Rc Verification</span>
+                    <span class="pull-right-container">
+                      <i class="fa fa-angle-left pull-right"></i>
+                    </span>
+                  </a>
+                  <ul class="treeview-menu">
+                    <li ><a href="rc_verification.php"><i class="fa fa-circle-o"></i>Verify</a></li>
+                    
+                  </ul>
+                </li>
                 
                <?php
                if($_SESSION['user_prev']=="fleet")

@@ -21,6 +21,9 @@
 			font-size: 10px;
 		}
 	}
+
+ 
+
 </style>
 
 <?php
@@ -276,7 +279,7 @@ if ($_POST) {
 
 			$sld_docs = $sld_doc;
 		}
-	 
+
 
 		if (isset($_FILES['rt_document'])) {
 			$rt_doc = '';
@@ -530,7 +533,7 @@ if ($_POST) {
 
 				<div class="box-tools pull-right">
 					<button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
-					<button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-remove"></i></button>
+					<!-- <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-remove"></i></button> -->
 				</div>
 			</div>
 
@@ -857,7 +860,7 @@ if ($_POST) {
 					</div>
 
 
-					
+
 					<div class="row">
 						<div class="col-sm-5">
 						</div>
@@ -882,7 +885,7 @@ if ($_POST) {
 
 				<div class="box-tools pull-right">
 					<button type="button" class="btn btn-box-tool" data-widget="collapse"><i class="fa fa-minus"></i></button>
-					<button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-remove"></i></button>
+					<!-- <button type="button" class="btn btn-box-tool" data-widget="remove"><i class="fa fa-remove"></i></button> -->
 				</div>
 			</div>
 
@@ -924,14 +927,14 @@ if ($_POST) {
 								<th style="text-align: center; font-size:12px" class="dm">Total Cost</th>
 								<th style="text-align: center; font-size:12px" class="dm">Insurance</th>
 								<th style="text-align: center; font-size:12px" class="dm">Pollution</th>
-								
-								
-							
+
+
+
 								<!-- <th style="text-align: center; font-size:12px" class="dm">Govt Reciept</th> -->
 								<!-- <th style="text-align: center; font-size:12px" class="dm">Registration Certificate</th> -->
 								<!-- 			               <th style="text-align: center; font-size:12px">Assign</th> -->
-								
-								
+
+
 								<th style="text-align: center; font-size:12px">Govt Reciept</th>
 								<th style="text-align: center; font-size:12px" class="dm">RC Copy</th>
 								<th style="text-align: center; font-size:12px">View</th>
@@ -1002,47 +1005,47 @@ if ($_POST) {
 
 
 
-											
+
 												<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['fitness_expiry_date'])); ?>
-											</td>
+												</td>
 
 												<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['insurence_expiry_date'])); ?></td>
 												<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['fitness_expiry_date'])); ?></td>
 
-<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['insurence_expiry_date'])); ?></td>
+												<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['insurence_expiry_date'])); ?></td>
 
-												
 
-												
+
+
 												<td class="dm" style="text-align: center;">
-											<a href = 'uploads/vehicle_documents/tax_token/<?php echo $vdata['tt_document'];?>' class="btn btn-primary" target="_blank" > Pending</a>
-											</td> 
+													<a href='uploads/vehicle_documents/tax_token/<?php echo $vdata['tt_document']; ?>' class="btn btn-primary" target="_blank"> Pending</a>
+												</td>
 
-											<td class="dm" style="text-align: center;">
-											<a href="gov_receipt.php?id=<?php echo $val['id'] ?>">
-													<i class="fa fa-download"></i>
-												</a>
-											</td>
+												<td class="dm" style="text-align: center;">
+													<a href="gov_receipt.php?id=<?php echo $val['id'] ?>">
+														<i class="fa fa-download"></i>
+													</a>
+												</td>
 
-											<td class="dm" style="text-align: center;">
-											<a href="rc_copy.php?id=<?php echo $val['id'] ?>">
-													<i class="fa fa-download"></i>
-												</a>
-											</td>
-											
-											<td style="text-align: center;">
-												<a href="viewVehicleDetails.php?id=<?php echo $val['id'] ?>">
-													<i class="fa fa-eye"></i>
-												</a>
-											</td>
-											
+												<td class="dm" style="text-align: center;">
+													<a href="rc_copy.php?id=<?php echo $val['id'] ?>">
+														<i class="fa fa-download"></i>
+													</a>
+												</td>
 
-											<td class="dm" style="text-align: center;">
-												<a href="editVehicleDetails.php?id=<?php echo $val['id'] ?>">
-											<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
-												</a>
-											</td>
-												
+												<td style="text-align: center;">
+													<a href="viewVehicleDetails.php?id=<?php echo $val['id'] ?>">
+														<i class="fa fa-eye"></i>
+													</a>
+												</td>
+
+
+												<td class="dm" style="text-align: center;">
+													<a href="editVehicleDetails.php?id=<?php echo $val['id'] ?>">
+														<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
+													</a>
+												</td>
+
 
 
 											</tr>
@@ -1105,39 +1108,39 @@ if ($_POST) {
 
 											<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['fitness_expiry_date'])); ?></td>
 
-<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['insurence_expiry_date'])); ?></td>
-											
+											<td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['insurence_expiry_date'])); ?></td>
+
 											<!-- <td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['mfg_date'])); ?></td> -->
-											
-											
+
+
 
 
 											<!-- <td class="dm" style="text-align: center;"><?php echo date('d-m-Y', strtotime($val['reg_date'])); ?></td> -->
 
 
-											
-											
+
+
 											<!-- <td class="dm" style="text-align: center;">
-											<a href = 'uploads/vehicle_documents/tax_token/<?php echo $vdata['tt_document'];?>' target="_blank" ><i class="fa fa-download" aria-hidden="true"></i> </a>
+											<a href = 'uploads/vehicle_documents/tax_token/<?php echo $vdata['tt_document']; ?>' target="_blank" ><i class="fa fa-download" aria-hidden="true"></i> </a>
 											</td> -->
 											<td class="dm" style="text-align: center;">
-											<a href="gov_receipt.php?id=<?php echo $val['id'] ?>">
+												<a href="gov_receipt.php?id=<?php echo $val['id'] ?>">
 													<i class="fa fa-download"></i>
 												</a>
 											</td>
 
 											<td class="dm" style="text-align: center;">
-											<a href="rc_copy.php?id=<?php echo $val['id'] ?>">
+												<a href="rc_copy.php?id=<?php echo $val['id'] ?>">
 													<i class="fa fa-download"></i>
 												</a>
 											</td>
-											
+
 
 											<!-- <td class="dm" style="text-align: center;">
-											<a href = 'uploads/vehicle_documents/rt_document/<?php echo $vdata['rt_document'];?>' target="_blank" ><i class="fa fa-download" aria-hidden="true"></i> </a>
+											<a href = 'uploads/vehicle_documents/rt_document/<?php echo $vdata['rt_document']; ?>' target="_blank" ><i class="fa fa-download" aria-hidden="true"></i> </a>
 											</td> -->
 
-											
+
 
 
 											<td style="text-align: center;">
@@ -1145,21 +1148,21 @@ if ($_POST) {
 													<i class="fa fa-eye"></i>
 												</a>
 											</td>
-											
+
 
 											<td class="dm" style="text-align: center;">
 												<a href="editVehicleDetails.php?id=<?php echo $val['id'] ?>">
-											<i class="fa fa-wrench" aria-hidden="true"></i>
+													<i class="fa fa-wrench" aria-hidden="true"></i>
 												</a>
 											</td>
 											<td class="dm" style="text-align: center;">
 												<a href="editVehicleDetails.php?id=<?php echo $val['id'] ?>">
-											<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
+													<i class="fa fa-calendar-check-o" aria-hidden="true"></i>
 												</a>
 											</td>
-											
 
-												
+
+
 
 										</tr>
 							<?php

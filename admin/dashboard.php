@@ -1,3 +1,15 @@
+<style>
+   .content{
+   margin-top: 3%;
+   }  
+
+   .fa-user{
+    font-size: 80px;
+   }
+  
+</style>
+
+
 <?php include('includes/header.php'); ?>
 <?php include('includes/sidebar.php'); ?>
 <?php
