@@ -1,8 +1,8 @@
 <?php
 // server info
-$host = 'localhost';
-$user = 'root';
-$password = '';
+$host = 'localhost:3306';
+$user = 'gaadixug_indigo';
+$password = 'indigo';
 $database_name = 'gaadixug_indigo';
 $conn = new mysqli($host, $user, $password, $database_name); 
 
