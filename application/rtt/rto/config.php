@@ -5,9 +5,9 @@
 // $password = 'Shakil@123';
 // $database_name = 'gaadixug_hdfc_integrator';
 
-$host = 'localhost';
-$user = 'root';
-$password = '';
+$host = 'localhost:3306';
+$user = 'gaadixug_indigo';
+$password = 'indigo';
 $database_name = 'gaadixug_indigo';
 
 // connect to the database
